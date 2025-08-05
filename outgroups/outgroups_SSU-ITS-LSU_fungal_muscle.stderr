@@ -1,0 +1,16 @@
+
+muscle 5.3.linux64 []  65.8Gb RAM, 24 cores
+Built Jul 30 2025 21:13:04
+(C) Copyright 2004-2021 Robert C. Edgar.
+https://drive5.com
+
+[-align outgroups/outgroups_SSU-ITS-LSU_fungal.fasta]
+Input: 9 seqs, avg length 2798, max 3611, min 2323
+
+00:00 8.2Mb    11.1% Derep 1 uniques, 0 dupes00:00 8.2Mb   100.0% Derep 9 uniques, 0 dupes
+00:00 8.2Mb  CPU has 24 cores, running 24 threads
+00:00 201Mb     2.8% Calc posteriors00:01 29.2Gb   69.4% Calc posteriors00:02 22.5Gb   77.8% Calc posteriors00:02 16.8Gb  100.0% Calc posteriors
+00:03 1.7Gb    12.5% UPGMA5         00:03 1.7Gb   100.0% UPGMA5
+00:03 1.7Gb     2.8% Consistency (1/2)00:03 1.8Gb   100.0% Consistency (1/2)
+00:03 1.7Gb     2.8% Consistency (2/2)00:03 1.8Gb   100.0% Consistency (2/2)
+00:03 1.8Gb     1.0% Refining         00:04 1.8Gb     9.0% Refining00:05 1.8Gb    39.0% Refining00:06 1.8Gb    71.0% Refining00:06 1.8Gb   100.0% Refining

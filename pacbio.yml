@@ -1,0 +1,32 @@
+name: pacbio
+channels:
+  - bioconda
+  - conda-forge
+  - r
+dependencies:
+  - jupyter
+  - shiny
+  - r-base
+  - r-devtools
+  - r-irkernel
+  - r-irdisplay
+  - r-box
+  - r-cairo
+  - r-tidyverse
+  - r-ggplot2
+  - r-reshape2
+  - r-gridextra
+  - bioconductor-shortread
+  - bioconductor-biostrings
+  - bioconductor-dada2
+  - bioconductor-msa
+  - bioconductor-ggtree
+  - r-ips 
+  - r-ggmsa
+  - r-ape
+  - r-msar
+  - r-htmlwidgets
+  - r-shiny 
+  - mafft
+  - muscle
+  - raxml
