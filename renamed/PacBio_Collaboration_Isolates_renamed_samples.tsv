@@ -1,248 +1,248 @@
 original_id	new_id	unique_ID	culture_original	culture_notes	culture	genus_original	species_original	source_code	genus	species	source_original	source	platform	sequencing_effort	successfull	read_count	notes	Isolate present in Nanopore and Pacbio?	Corresponding code on Nanopore tables
-Sample_5	KU_Gigaspora_0_margarita	5	NC114B		NC114B	Gigaspora	margarita	KU	Gigaspora	margarita	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	496		Y	NC114A
-Sample_6	#N/A	6	HA692B		HA692B	Funneliformis	caledonius	KU	Funneliformis	caledonius	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	No	0		Y	HA692_B-25
-Sample_7	KU_Rhizophagus_0_sinuosus	7	MD126		MD126	Rhizophagus	sinuosus	KU	Rhizophagus	sinuosus	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	290		Y	MD126
-Sample_8	KU_Ambispora_0_gerdemannii	8	MT106		MT106	Ambispora	gerdemannii	KU	Ambispora	gerdemannii	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	1051		Y	MT106
-Sample_9	KU_Gigaspora_0_albida	9	BR235		BR235	Gigaspora	albida	KU	Gigaspora	albida	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	1288		N	
-Sample_10	KU_Racocetra_0_gregaria	10	NC210		NC210	Racocetra	gregaria	KU	Racocetra	gregaria	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Low read count	68		Y	NC210
-Sample_11	KU_Ambispora_0_leptoticha	11	MX982A		MX982A	Ambispora	leptoticha	KU	Ambispora	leptoticha	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	1055		Y	MX982A
-Sample_12	KU_Acaulospora_0_sp.	12	TU102C		TU102C	Acaulospora	sp.	KU	Acaulospora	sp.	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Marginal	1	1 original total sequences, but lost with a 3000bp filter cuttoff	N	
-Sample_13	KU_Acaulospora_0_pauliniae	13	AU103A		AU103A	Acaulospora	pauliniae	KU	Acaulospora	paulinae	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Marginal	1	1 original total sequences, but lost with a 3000bp filter cuttoff	Y	AU103A
-Sample_14	KU_Diversispora_0_sp.	14	NB103A		NB103A	Diversispora	sp.	KU	Diversispora	trimurales?	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	530	trimurales?	N	
-Sample_15	KU_Funneliformis_0_coronatum	15	MR101		MR101	Funneliformis	coronatum	KU	Funneliformis	coronatus	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	1749		N	
-Sample_16	KU_Acaulospora_0_tuberculata	16	VZ103E		VZ103E	Acaulospora	tuberculata	KU	Acaulospora	tuberculata	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	178		Y	VZ103E
-Sample_17	KU_Diversispora_0_tortuosum	17	JA306A		JA306A	Diversispora	tortuosum	KU	Diversispora	tortuosa	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	282		Y	JA306A
-Sample_18	KU_Entrophospora_0_infrequens	18	CA203		CA203	Entrophospora	infrequens	KU	Entrophospora	infrequens	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	994		Y	CA203
-Sample_19	KU_Rhizophagus_0_manihotis	19	FL879N		FL879N	Rhizophagus	manihotis	KU	Rhizophagus	clarus	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	2097		Y	FL879N
-Sample_20	KU_Gigaspora_0_rosea	20	FL105-11		FL105_11	Gigaspora	rosea	KU	Gigaspora	rosea	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	121		N	
-Sample_21	KU_Acaulospora_0_elegans	21	FL736A		FL736A	Acaulospora	elegans	KU	Acaulospora	elegans	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Low read count	15		Y	FL736A
-Sample_22	KU_Diversispora_0_eburnea	22	KE124		KE124	Diversispora	eburnea	KU	Diversispora	eburnea	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Low read count	3		N	
-Sample_23	KU_Acaulospora_0_mellea	23	CL649		CL649	Acaulospora	mellea	KU	Acaulospora	mellea	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	252		N	
-Sample_24	KU_Septoglomus_0_constrictum	24	FL328		FL328	Septoglomus	constrictum	KU	Septoglomus	constrictum	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	626		Y	FL328
-Sample_25	KU_Rhizophagus_both morphotypes_dimorphicus	25	FL912N*	both morphotypes	FL912N	Rhizophagus	dimorphicus	KU	Rhizophagus	dimorphicus	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	596	Liz is not sure which morph this is	Y	FL912N
-Sample_26	KU_Glomus_0_globifera	26	NM105		NM105	Diversispora	globifera	KU	Glomus	globiferum	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Low read count	2		N	
-Sample_27	KU_Glomus_0_hyaline	27	WV692B		WV692B	Glomus	hyaline	KU	Glomus	hyaline	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Low read count	2		Y	WV692B
-Sample_28	#N/A	28	MGR571A		MGR571A	Glomus	trufemii	KU	Glomus	trufemii	cicg	CICG	Pacbio_Sequel_II	KU-FGCZ	No	0		N	
-Sample_29	KU_Entrophospora_0_sp.	29	SCT912C		SCT912C	Claroideoglomus	sp.	KU	Entrophospora	sp.	cicg	CICG	Pacbio_Sequel_II	KU-FGCZ	Yes	547		N	
-Sample_30	KU_Entrophospora_0_sp.	30	SCT911B		SCT911B	Claroideoglomus	sp.	KU	Entrophospora	sp.	cicg	CICG	Pacbio_Sequel_II	KU-FGCZ	Low read count	1		N	
-Sample_31	KU_Scutellospora_0_weresubiae	31	SCT377A-1		SCT377A_1	Scutellospora	weresubiae	KU	Scutellospora	weresubiae	cicg	CICG	Pacbio_Sequel_II	KU-FGCZ	Yes	135		N	
-Sample_32	KU_Paraglomus_0_sp.	32	SCT001C		SCT001C	Paraglomus	sp.	KU	Paraglomus	sp.	cicg	CICG	Pacbio_Sequel_II	KU-FGCZ	Marginal	2	2 original total sequences, but lost with a 3000bp filter cuttoff	N	
-Sample_33	KU_Paraglomus_0_occultum	33	NC258		NC258	Paraglomus	occultum	KU	Paraglomus	occultum	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	1085		N	
-Sample_34	KU_Racocetra_0_coralloidea	34	CA260		CA260	Racocetra	coralloidea	KU	Racocetra	coralloidea	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Marginal	1	1 original total sequences, but lost with a 3000bp filter cuttoff	Y	CA260
-Sample_35	KU_Funneliformis_0_fragilistratum	35	DN988		DN988	Funneliformis	fragilistratum	KU	Funneliformis	fragilistratum	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	1231		Y	DN988
-Sample_36	KU_Rhizophagus_0_clarus	36	BR147B		BR147B	Rhizophagus	clarus	KU	Rhizophagus	clarus	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	1110		N	
-Sample_37	KU_Rhizophagus_0_intraradices	37	IS185-26		IS185_26	Rhizophagus	intraradices	KU	Rhizophagus	intraradices	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	913		N	
-Sample_38	KU_Archaeospora_0_schenckii	38	CL401		CL401	Archaeospora	schenckii	KU	Archaeospora	schenckii	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	1540		Y	CL401
-Sample_39	KU_Innospora_0_mirificum	39	JA205B		JA205B	Paraglomus	mirificum	KU	Innospora	majewski	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	514		Y	JA205F
-Sample_40	KU_Diversispora_0_epigaea	40	KS210		KS210	Diversispora	epigaea	KU	Diversispora	epigaea	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	397		N	
-Sample_41	KU_Glomus_0_mortonii	41	507		507	Glomus	mortonii	KU	Glomus	mortonii	lab	KU	Pacbio_Sequel_II	KU-FGCZ	Low read count	15		N	
-Sample_42	KU_Entrophospora_0_infrequens	42	110-11A		110_11A	Entrophospora	infrequens	KU	Entrophospora	infrequens	lab	KU	Pacbio_Sequel_II	KU-FGCZ	Yes	460		N	
-Sample_43	#N/A	43	513-7		513_7	Rhizophagus	intraradices	KU	Rhizophagus	intraradices	lab	KU	Pacbio_Sequel_II	KU-FGCZ	No	0		N	
-Sample_44	KU_Dentiscutata_0_heterogama	44	FL728		FL728	Dentiscutata	heterogama	KU	Dentiscutata	heterogama	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	1010		N	
-Sample_45	KU_Entrophospora_0_infrequens	45	95-10		95_10	Entrophospora	infrequens	KU	Entrophospora	infrequens	lab	KU	Pacbio_Sequel_II	KU-FGCZ	Yes	138		N	
-Sample_46	KU_Funneliformis_0_mosseae	46	87-11		87_11	Funneliformis	mosseae	KU	Funneliformis	mosseae	lab	KU	Pacbio_Sequel_II	KU-FGCZ	Yes	1358		N	
-Sample_47	KU_Paraglomus_0_sp.	47	SCT836A		SCT836A	Paraglomus	sp.	KU	Paraglomus	sp.	cicg	CICG	Pacbio_Sequel_II	KU-FGCZ	Marginal	1	1 original total sequences, but lost with a 3000bp filter cuttoff	N	
-Sample_48	KU_Paraglomus_0_sp.	48	GOI408A		GOI408A	Paraglomus	sp.	KU	Paraglomus	sp.	cicg	CICG	Pacbio_Sequel_II	KU-FGCZ	Marginal	1	1 original total sequences, but lost with a 3000bp filter cuttoff	N	
-Sample_49	KU_Paraglomus_0_sp.	49	SCT157F		SCT157F	Paraglomus	sp.	KU	Paraglomus	sp.	cicg	CICG	Pacbio_Sequel_II	KU-FGCZ	Low read count	2		N	
-Sample_50	#N/A	50	SCT377A-2		SCT377A_2	Paraglomus	sp.	KU	Paraglomus	sp.	cicg	CICG	Pacbio_Sequel_II	KU-FGCZ	No	0		N	
-Sample_51	#N/A	51	TOC235C		TOC235C	Paraglomus	sp.	KU	Paraglomus	sp.	cicg	CICG	Pacbio_Sequel_II	KU-FGCZ	No	0		N	
-Sample_52	KU_Entrophospora_0_claroideum	52	69-9A		69_9A	Claroideoglomus	claroideum	KU	Entrophospora	claroidea	lab	KU	Pacbio_Sequel_II	KU-FGCZ	Yes	757		N	
-Sample_53	KU_Racocetra_0_fulgida	53	57-11		57_11	Racocetra	fulgida	KU	Racocetra	fulgida	lab	KU	Pacbio_Sequel_II	KU-FGCZ	Marginal	1	1 original total sequences, but lost with a 3000bp filter cuttoff	N	
-Sample_54	#N/A	54	6-11		6_11	Claroideoglomus	candidum	KU	Entrophospora	candida	lab	KU	Pacbio_Sequel_II	KU-FGCZ	No	0		N	
-Sample_55	#N/A	55	408-8		408_8	Rhizophagus	clarus	KU	Rhizophagus	clarus	lab	KU	Pacbio_Sequel_II	KU-FGCZ	No	0		N	
-Sample_56	#N/A	56	514-8A		514_8A	Funneliformis	mosseae	KU	Funneliformis	mosseae	lab	KU	Pacbio_Sequel_II	KU-FGCZ	No	0		N	
-Sample_57	#N/A	57	114-11A		114_11A	Claroideoglomus	lamellosum	KU	Entrophospora	lamellosa	lab	KU	Pacbio_Sequel_II	KU-FGCZ	No	0		N	
-Sample_58	KU_Gigaspora_0_margarita	58	120-7A		120_7A	Gigaspora	margarita	KU	Gigaspora	margarita	lab	KU	Pacbio_Sequel_II	KU-FGCZ	Yes	412		N	
-Sample_59	KU_Cetraspora_0_pellucida	59	124-8		124_8	Cetraspora	pellucida	KU	Cetraspora	pellucida	lab	KU	Pacbio_Sequel_II	KU-FGCZ	Marginal	1	1 original total sequences, but lost with a 3000bp filter cuttoff	N	
-Sample_60	#N/A	60	BR232C-17		BR232C	Claridioglomus	etunicatum	KU	Entrophospora	etunicata	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	No	0		N	
-Sample_61	KU_Archaeospora_0_trappei	61	SF124-22		SF124_22	Archaeospora	trappei	KU	Archaeospora	trappei	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Low read count	81		N	
-Sample_62	KU_Gigaspora_0_rosea	62	BR155B-2		BR155B	Gigaspora	rosea	KU	Gigaspora	rosea	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	339		Y	BR155A
-Sample_64	KU_Glomus_0_mortonii	64	205-8		205_8	Glomus	mortonii	KU	Glomus	mortonii	lab	KU	Pacbio_Sequel_II	KU-FGCZ	Yes	107		N	
-Sample_65	#N/A	65	121-12A		121_12A	Claroideoglomus	claroideum	KU	Entrophospora	claroidea	lab	KU	Pacbio_Sequel_II	KU-FGCZ	No	0		N	
-Sample_66	#N/A	66	503-6A		503_6A	Glomus	mortonii	KU	Glomus	mortonii	lab	KU	Pacbio_Sequel_II	KU-FGCZ	No	0		N	
-Sample_67	KU_Entrophospora_0_claroideum/luteum	67	SA101		SA101	Claroideoglomus	claroideum/luteum	KU	Entrophospora	lutea	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Marginal	2	2 original total sequences, but lost with a 3000bp filter cuttoff	N	
-Sample_68	#N/A	68	3006A		3006A	NA	NA	KU	Unknown	NA	lab	KU	Pacbio_Sequel_II	KU-FGCZ	No	0		N	
-Sample_69	KU_Funneliformis_0_mosseae	69	NC302C-C12		NC302C	Funneliformis	mosseae	KU	Funneliformis	mosseae	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	1612		Y	NC302A
-Sample_70	KU_Unknown_0_NA	70	11 = JAY 1		JAY1	NA	NA	KU	Unknown	NA	jay	JAY	Pacbio_Sequel_II	KU-FGCZ	Yes	309	unknown AMF	N	
-Sample_71	KU_Unknown_0_NA	71	12 = JAY 2		JAY2	NA	NA	KU	Unknown	NA	jay	JAY	Pacbio_Sequel_II	KU-FGCZ	Low read count	1	unknown AMF	N	
-Sample_72	#N/A	72	13 = JAY 3		JAY3	NA	NA	KU	Unknown	NA	jay	JAY	Pacbio_Sequel_II	KU-FGCZ	No	0	unknown AMF	N	
-Sample_73	#N/A	73	14 = JAY 4		JAY4	NA	NA	KU	Unknown	NA	jay	JAY	Pacbio_Sequel_II	KU-FGCZ	No	0	unknown AMF	N	
-Sample_74	KU_undecided_0_NA	74	SMB-6		SMB_6	NA	NA	KU	undecided	NA	lab	KU	Pacbio_Sequel_II	KU-FGCZ	Marginal	499	499 original total sequences, but lost with a 3000bp filter cuttoff	N	
-Sample_75	KU_Rhizophagus_0_diaphanus	75	WV579B		WV579B	Rhizophagus	diaphanus	KU	Rhizophagus	diaphanus	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Low read count	2		Y	WV579B
-Sample_76	KU_Rhizophagus_0_microaggregatum	76	UT126B		UT126B	Glomus	microaggregatum	KU	Rhizophagus	microaggregatum	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Marginal	1	1 original total sequences, but lost with a 3000bp filter cuttoff	Y	UT126A
-Sample_77	KU_Paraglomus_0_brasilianum	77	FL710-19		FL710_19	Paraglomus	brasilianum	KU	Paraglomus	brasilianum	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	905		Y	FL710
-Sample_78	KU_Dentiscutata_0_heterogama	78	FL225-25		FL225_25	Dentiscutata	heterogama	KU	Dentiscutata	heterogama	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Low read count	29		N	
-Sample_79	KU_Acaulospora_0_koskei	79	WV103-16		WV103_16	Acaulospora	koskei	KU	Acaulospora	koskei	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Marginal	1	1 original total sequences, but lost with a 3000bp filter cuttoff	N	
-Sample_80	KU_Gigaspora_0_gigantea	80	KS302-22		KS302	Gigaspora	gigantea	KU	Gigaspora	gigantea	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	597		N	
-Sample_81	KU_Racocetra_0_verrucosa	81	VA103A		VA103A	Racocetra	verrucosa	KU	Racocetra	verrucosa	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Marginal	1	1 original total sequences, but lost with a 3000bp filter cuttoff	Y	VA103A
-Sample_82	KU_Septoglomus_0_constrictum	82	KS890-29		KS890	Septoglomus	constrictum	KU	Septoglomus	constrictum	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	572		Y	KS890
-Sample_83	KU_Diversispora_0_spurca	83	WV109G-16		WV109G_16	Diversispora	spurca	KU	Diversispora	spurca	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Marginal	1	1 original total sequences, but lost with a 3000bp filter cuttoff	Y	WV109A
-Sample_84	KU_Acaulospora_0_kentinensis	84	FL709-10		FL709_10	Acaulospora	kentinensis	KU	Acaulospora	kentinensis	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Low read count	6		Y	FL709A
-Sample_85	KU_Dentiscutata_0_erythropa	85	RI275-31		RI275_31	Dentiscutata	erythropa	KU	Dentiscutata	erythropa	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	1247		Y	RI275B
-Sample_86	KU_Racocetra_0_persica	86	MA461A		MA461A	Racocetra	persica	KU	Racocetra	persica	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Low read count	15		N	
-Sample_87	#N/A	87	305-7		305_7	Cetraspora	pellucida	KU	Cetraspora	pellucida	lab	KU	Pacbio_Sequel_II	KU-FGCZ	No	0		N	
-Sample_88	KU_Funneliformis_0_monosporum	88	WY107		WY107	Funneliformis	monosporum	KU	Funneliformis	monosporus	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	999		Y	WY107
-Sample_89	KU_Gigaspora_0_decipiens	89	AU102-9		AU102_9	Gigaspora	decipiens	KU	Gigaspora	decipiens	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	633		Y	AU102 B-9/AU102B
-Sample_90	KU_Funneliformis_0_mosseae	90	510-4A		510_4A	Funneliformis	mosseae	KU	Funneliformis	mosseae	lab	KU	Pacbio_Sequel_II	KU-FGCZ	Yes	999		N	
-Sample_96	KU_Septoglomus_0_deserticola	96	HA201		HA201	Septoglomus	deserticola	KU	Septoglomus	deserticola	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Low read count	46		Y	HA201-20-I
-Sample_99	#N/A	99	BR947-12		BR947	Acaulospora	colombiana	KU	Acaulospora	colombiana	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	No	0		Y	BR947NB
-Sample_110	#N/A	110	6-11 2		6_11	Claroideoglomus	candidum	KU	Entrophospora	candida	lab	KU	Pacbio_Sequel_II	KU-FGCZ	No	0	duplicate 	N	
-Sample_111	#N/A	111	300		300	Claroideoglomus	candidum	KU	Entrophospora	candida	lab	KU	Pacbio_Sequel_II	KU-FGCZ	No	0		N	
-Sample_117	KU_NA_0_NA	117	Field-DP16		Field_DP16	NA	NA	KU	NA	NA	liz	LIZ	Pacbio_Sequel_II	KU-FGCZ	Yes	586	field sample	N	
-Sample_118	KU_NA_0_NA	118	Field-MB24		Field_MB24	NA	NA	KU	NA	NA	liz	LIZ	Pacbio_Sequel_II	KU-FGCZ	Yes	537	field sample	N	
-Sample_120	#N/A	120	FL912N* (FL912B)	black morph	FL912N_B	Rhizophagus	dimorphicus	KU	Rhizophagus	dimorphicus	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	No	0		Y	FL912N
-Sample_121	#N/A	121	FL912N* (FL912W)	white morph	FL912N_W	Rhizophagus	dimorphicus	KU	Rhizophagus	dimorphicus	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	No	0		Y	FL912N
-Sample_122	#N/A	122	MG101B		MG101B	Acaulospora	koskei	KU	Acaulospora	koskei	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	No	0		N	
-Sample_123	#N/A	123	NC104B		NC104B	Archaeospora	trappei	KU	Archaeospora	trappei	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	No	0		N	
-Sample_124	#N/A	124	WA106		WA106	Scutellospora	calospora	KU	Scutellospora	calospora	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	No	0		N	
-Sample_125	#N/A	125	BEG17		BEG17	Gigaspora	albida	KU	Gigaspora	albida	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	No	0		N	
-P_laccatum_AH960_55_cut	ZU_Paraglomus_0_laccatum	z1	AH960_55		AH960_55	P.	laccatum	ZU	Paraglomus	laccatum	Claudia Kruger collection in Průhonice - DNA extracted from 1 spore	KRUGER	Pacbio_Sequel_II	zuzana_Lib-6262	Yes	1473		N	
-S_viscosum_AH179_15_1C_cut	ZU_Septoglomus_0_viscosum	z10	AH179_15_1C		AH179	S.	viscosum	ZU	Septoglomus	viscosum	Claudia Kruger collection in Průhonice - DNA extracted from 1 spore	KRUGER	Pacbio_Sequel_II	zuzana_Lib-6262	Yes	1142		N	
-Sc_calospora_BEG245_5A_cut	ZUII_Scutellospora_0_calospora	z100	BEG245_5A		BEG245	Sc.	calospora	ZUII	Scutellospora	calospora	BEG (Dijon) DNA extracted from 5 spores	BEG	Pacbio_RSII	zuzana_Lib-5090	Low	10		N	
-Cl_Etunicatum_IN101_1B_cut	ZUII_Entrophospora_0_Etunicatum	z101	IN101_1B		IN101	Cl.	Etunicatum	ZUII	Entrophospora	etunicata	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5090	Yes	107		Y	IN 101 B
-Ac_Laevis_BEG26_1C_cut	ZUII_Acaulospora_0_Laevis	z102	BEG26_1C		BEG26	Ac.	Laevis	ZUII	Acaulospora	laevis	BEG (Dijon) DNA extracted from 1 spore	BEG	Pacbio_RSII	zuzana_Lib-5090	Low	7		N	
-A_leptoticha_CR312_1C_cut	ZUII_Ambispora_0_leptoticha	z103	CR312_1C		CR312	A.	leptoticha	ZUII	Ambispora	leptoticha	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5090	Low	20		Y	CR 312
-A_leptoticha_CR312_1B_cut	ZUII_Ambispora_0_leptoticha	z104	CR312_1B		CR312	A.	leptoticha	ZUII	Ambispora	leptoticha	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5090	Low	69		Y	CR 312
-SccalosporaAU212B1C_cut	ZUII_Scutellospora_0_calospora	z105	AU212B_1C		AU212B	Sc.	calospora	ZUII	Scutellospora	calospora	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5090	Yes	153		Y	AU212A
-Ac_Laevis_BEG26_1D_cut	ZUII_Acaulospora_0_Laevis	z106	BEG26_1D		BEG26	Ac.	Laevis	ZUII	Acaulospora	laevis	BEG (Dijon) DNA extracted from 1 spore	BEG	Pacbio_RSII	zuzana_Lib-5090	Low	42		N	
-A_leptoticha_CR312_1A_cut	ZUII_Ambispora_0_leptoticha	z107	CR312_1A		CR312	A.	leptoticha	ZUII	Ambispora	leptoticha	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5090	Low	4		Y	CR 312
-Ac_Laevis_BEG242_1D_cut	ZUII_Acaulospora_0_Laevis	z108	BEG242_1D		BEG242	Ac.	Laevis	ZUII	Acaulospora	laevis	BEG (Dijon) DNA extracted from 1 spore	BEG	Pacbio_RSII	zuzana_Lib-5090	Low	16		N	
-Sc_calospora_BEG245_1B_cut	ZUII_Scutellospora_0_calospora	z109	BEG245_1B		BEG245	Sc.	calospora	ZUII	Scutellospora	calospora	BEG (Dijon) DNA extracted from 1 spore	BEG	Pacbio_RSII	zuzana_Lib-5090	Low	63		N	
-A_trappei_CU132_5P_cut	ZU_Archaeospora_0_trappei	z11	CU132_5P		CU132	A.	trappei	ZU	Archaeospora	trappei	INVAM - DNA extracted from 5 spores	INVAM	Pacbio_Sequel_II	zuzana_Lib-6262	Yes	347		N	
-Sc_calospora_AU212B_10B_cut	ZUII_Scutellospora_0_calospora	z110	AU212B_10B		AU212B	Sc.	calospora	ZUII	Scutellospora	calospora	INVAM - DNA extracted from 10 spores	INVAM	Pacbio_RSII	zuzana_Lib-5090	Low	1		N	
-Sc_calospora_BEG245_10A_cut	ZUII_Scutellospora_0_calospora	z111	BEG245_10A		BEG245	Sc.	calospora	ZUII	Scutellospora	calospora	BEG (Dijon) DNA extracted from 10 spores	BEG	Pacbio_RSII	zuzana_Lib-5090	Low	14		N	
-Sc_calospora_AU212B_5A_cut	ZUII_Scutellospora_0_calospora	z112	AU212B_5A		AU212B	Sc.	calospora	ZUII	Scutellospora	calospora	INVAM - DNA extracted from 5 spores	INVAM	Pacbio_RSII	zuzana_Lib-5090	Low	5		N	
-Cl_Etunicatum_IN101_1A_cut	ZUII_Entrophospora_0_Etunicatum	z113	IN101_1A		IN101	Cl.	Etunicatum	ZUII	Entrophospora	etunicata	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5090	Low	64		Y	IN 101 B
-Cl_Luteum_CR308_5A_cut	ZUII_Entrophospora_0_Luteum	z114	CR308_5A		CR308	Cl.	Luteum	ZUII	Entrophospora	lutea	INVAM - DNA extracted from 5 spores	INVAM	Pacbio_RSII	zuzana_Lib-5090	Low	26		N	
-Se_deserticola_NC302A_1C_cut	ZUII_Septoglomus_0_deserticola	z115	NC302A_1C		NC302A	Se.	deserticola	ZUII	Septoglomus	deserticola	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5090	Low	1		Y	NC302A
-Se_deserticola_NC302A_5A_cut	ZUII_Septoglomus_0_deserticola	z116	NC302A_5A		NC302A	Se.	deserticola	ZUII	Septoglomus	deserticola	INVAM - DNA extracted from 5 spores	INVAM	Pacbio_RSII	zuzana_Lib-5090	Low	1		Y	NC302A
-Ac_Laevis_BEG242_1F_cut	ZUII_Acaulospora_0_Laevis	z117	BEG242_1F		BEG242	Ac.	Laevis	ZUII	Acaulospora	laevis	BEG (Dijon) DNA extracted from 1 spore	BEG	Pacbio_RSII	zuzana_Lib-5090	Low	6		N	
-Ac_Laevis_BEG242_1G_cut	ZUII_Acaulospora_0_Laevis	z118	BEG242_1G		BEG242	Ac.	Laevis	ZUII	Acaulospora	laevis	BEG (Dijon) DNA extracted from 1 spore	BEG	Pacbio_RSII	zuzana_Lib-5090	Low	11		N	
-Se_deserticola_NC302A_1A_cut	ZUII_Septoglomus_0_deserticola	z119	NC302A_1A		NC302A	Se.	deserticola	ZUII	Septoglomus	deserticola	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5090	Low	7		Y	NC302A
-G_rosea_BEG9_1Na_.cut	ZU_Gigaspora_0_rosea	z12	BEG9_1Na		BEG9	G.	rosea	ZU	Gigaspora	rosea	BEG (cultured in IBOT Pruhonice) - DNA extracted from 1 spore	BEG	Pacbio_Sequel_II	zuzana_Lib-6262	Yes	265		N	
-Rh_Irregularis_Chomutov_10B_cut	ZUII_Rhizophagus_0_Irregularis	z120	Chomutov_10B		Chomutov	Rh.	Irregularis	ZUII	Rhizophagus	irregularis	IBOT collection (Pruhonice) - DNA extracted from 10 spores	IBOT	Pacbio_RSII	zuzana_Lib-5090	Low	4		N	
-Cl_Etunicatum_IN101_10B_cut	ZUII_Entrophospora_0_Etunicatum	z121	IN101_10B		IN101	Cl.	Etunicatum	ZUII	Entrophospora	etunicata	INVAM - DNA extracted from 10 spores	INVAM	Pacbio_RSII	zuzana_Lib-5563	Low	1		Y	IN 101 B
-Rh_Irregularis_Chomutov_5A_cut	#N/A	z122	Chomutov_5A		Chomutov	Rh.	Irregularis	ZUII	Rhizophagus	irregularis	IBOT collection (Pruhonice) - DNA extracted from 5 spores	IBOT	Pacbio_RSII	zuzana_Lib-5563	No	0		N	
-Ka_bistrata_Blaszk7_10B_cut	ZUII_Kamienskia_0_bistrata	z123	Blaszk7_10B		Blaszk7	Ka.	bistrata	ZUII	Kamienskia	bistrata	Janusz Blaszkowski collection - DNA extracted from 10 spores	BLASZ	Pacbio_RSII	zuzana_Lib-5563	Low	38		N	
-Pa_brasilianum_BR105_1C_cut	ZUII_Paraglomus_0_brasilianum	z124	BR105_1C		BR105	Pa.	brasilianum	ZUII	Paraglomus	brasilianum	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5563	Low	37		Y	BR 105
-Cl_etunicatum_BEG247_1C_cut	ZUII_Entrophospora_0_etunicatum	z125	BEG247_1C		BEG247	Cl.	etunicatum	ZUII	Entrophospora	etunicata	BEG (Dijon) DNA extracted from 1 spore	BEG	Pacbio_RSII	zuzana_Lib-5563	Low	32		N	
-En_infrequens_Blaszk3_10A_cut	ZUII_Entrophospora_0_infrequens	z126	Blaszk3_10A		Blaszk3	En.	infrequens	ZUII	Entrophospora	infrequens	Janusz Blaszkowski collection - DNA extracted from 10 spores	BLASZ	Pacbio_RSII	zuzana_Lib-5563	Low	22		N	
-Pa_scintillans_Blaszk6_5B_cut	ZUII_Paraglomus_0_scintillans	z127	Blaszk6_5B		Blaszk6	Pa.	scintillans	ZUII	Paraglomus	scintillans	Janusz Blaszkowski collection - DNA extracted from 5 spores	BLASZ	Pacbio_RSII	zuzana_Lib-5563	Low	33		N	
-Di_spurca_W6227_5C5_cut	ZUII_Diversispora_0_spurca	z128	W6227_5C5		W6227	Di.	spurca	ZUII	Diversispora	spurca	Claudia Kruger collection in Průhonice - DNA extracted from 5 spores	KRUGER	Pacbio_RSII	zuzana_Lib-5563	Low	2		N	
-Am_gerdemannii_MT106_5A_cut	ZUII_Ambispora_0_gerdemannii	z129	MT106_5A		MT106	Am.	gerdemannii	ZUII	Ambispora	gerdemannii	INVAM - DNA extracted from 5 spores	INVAM	Pacbio_RSII	zuzana_Lib-5563	Low	2		Y	MT106
-P_occultum_CU126_5B_cut	ZU_Paraglomus_0_occultum	z13	CU126_5B		CU126	P.	occultum	ZU	Paraglomus	occultum	INVAM - DNA extracted from 5 spores	INVAM	Pacbio_Sequel_II	zuzana_Lib-6262	Yes	399		N	
-Ac_laevis_BEG13_5_2_cut	ZUII_Acaulospora_0_laevis	z130	BEG13_5_2		BEG13	Ac.	laevis	ZUII	Acaulospora	laevis	BEG (Dijon) DNA extracted from 5 spores	BEG	Pacbio_RSII	zuzana_Lib-5563	Low	9		N	
-Pa_occultum_CU126_1C_cut	ZUII_Paraglomus_0_occultum	z131	CU126_1C		CU126	Pa.	occultum	ZUII	Paraglomus	occultum	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5563	Low	4		N	
-Pa_occultum_CU126_5A_cut	ZUII_Paraglomus_0_occultum	z132	CU126_5A		CU126	Pa.	occultum	ZUII	Paraglomus	occultum	INVAM - DNA extracted from 5 spores	INVAM	Pacbio_RSII	zuzana_Lib-5563	Low	4		N	
-Ac_laevis_BEG13_5_cut	ZUII_Acaulospora_0_laevis	z133	BEG13_5		BEG13	Ac.	laevis	ZUII	Acaulospora	laevis	BEG (Dijon) DNA extracted from 5 spores	BEG	Pacbio_RSII	zuzana_Lib-5563	Low	3		N	
-Di_spurca_W6227_10_cut	ZUII_Diversispora_0_spurca	z134	W6227_10		W6227	Di.	spurca	ZUII	Diversispora	spurca	Claudia Kruger collection in Průhonice - DNA extracted from 10 spores	KRUGER	Pacbio_RSII	zuzana_Lib-5563	Low	1		N	
-Pa_occultum_CU126_1B_cut	ZUII_Paraglomus_0_occultum	z135	CU126_1B		CU126	Pa.	occultum	ZUII	Paraglomus	occultum	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5563	Low	2		N	
-De_heterogama_BEG35_10_cut	ZUII_Dentiscutata_0_heterogama	z136	BEG35_10		BEG35	De.	heterogama	ZUII	Dentiscutata	heterogama	BEG (Dijon) DNA extracted from 10 spores	BEG	Pacbio_RSII	zuzana_Lib-5563	Low	2		N	
-Cl_etunicatum_BEG247_1A_cut	ZUII_Entrophospora_0_etunicatum	z137	BEG247_1A		BEG247	Cl.	etunicatum	ZUII	Entrophospora	etunicata	BEG (Dijon) DNA extracted from 1 spore	BEG	Pacbio_RSII	zuzana_Lib-5563	Low	17		N	
-Cl_etunicatum_BEG247_5B_cut	ZUII_Entrophospora_0_etunicatum	z138	BEG247_5B		BEG247	Cl.	etunicatum	ZUII	Entrophospora	etunicata	BEG (Dijon) DNA extracted from 5 spores	BEG	Pacbio_RSII	zuzana_Lib-5563	Low	17		N	
-Cl_luteum_SA101_10A_cut	ZUII_Entrophospora_0_luteum	z139	SA101_10A		SA101	Cl.	luteum	ZUII	Entrophospora	lutea	INVAM - DNA extracted from 10 spores	INVAM	Pacbio_RSII	zuzana_Lib-5563	Low	22		N	
-F_mosseae_BEG161_1A_cut	ZU_Funneliformis_0_mosseae	z14	BEG161_1A		BEG161	F.	mosseae	ZU	Funneliformis	mosseae	BEG (cultured in IBOT Pruhonice) - DNA extracted from 1 spore	BEG	Pacbio_Sequel_II	zuzana_Lib-6262	Yes	414		N	
-Rh_irregularis_PH5_1C_cut	ZUII_Rhizophagus_0_irregularis	z140	PH5_1C		PH5	Rh.	irregularis	ZUII	Rhizophagus	irregularis	IBOT collection (Pruhonice) - DNA extracted from 1 spore	IBOT	Pacbio_RSII	zuzana_Lib-5563	Low	11		N	
-De_heterogama_BEG35_5_cut	ZUII_Dentiscutata_0_heterogama	z141	BEG35_5		BEG35	De.	heterogama	ZUII	Dentiscutata	heterogama	BEG (Dijon) DNA extracted from 5 spores	BEG	Pacbio_RSII	zuzana_Lib-5563	Low	2		N	
-Pa_brasilianum_BEG239_5A_cut	ZUII_Paraglomus_0_brasilianum	z142	BEG239_5A		BEG239	Pa.	brasilianum	ZUII	Paraglomus	brasilianum	BEG (Dijon) DNA extracted from 5 spores	BEG	Pacbio_RSII	zuzana_Lib-5563	Low	17		N	
-Am_fennica_fromAtt555_36_10g_cut	ZUII_Ambispora_0_fennica	z143	fromAtt555_36_10g		Att555_36	Am.	fennica	ZUII	Ambispora	fennica	Claudia Kruger collection in Průhonice - DNA extracted from 10 spores	KRUGER	Pacbio_RSII	zuzana_Lib-5563	Low	2		N	
-Di_spurca_W6227_5C4_cut	ZUII_Diversispora_0_spurca	z144	W6227_5C4		W6227	Di.	spurca	ZUII	Diversispora	spurca	Claudia Kruger collection in Průhonice - DNA extracted from 5 spores	KRUGER	Pacbio_RSII	zuzana_Lib-5563	Low	8		N	
-Am_gerdemannii_MT106_5B_cut	ZUII_Ambispora_0_gerdemannii	z145	MT106_5B		MT106	Am.	gerdemannii	ZUII	Ambispora	gerdemannii	INVAM - DNA extracted from 5 spores	INVAM	Pacbio_RSII	zuzana_Lib-5563	Low	1		Y	MT106
-Ac_laevis_BEG13_1E_cut	ZUII_Acaulospora_0_laevis	z146	BEG13_1E		BEG13	Ac.	laevis	ZUII	Acaulospora	laevis	BEG (Dijon) DNA extracted from 1 spore	BEG	Pacbio_RSII	zuzana_Lib-5563	Low	1		N	
-Gi_rosea_BEG9_5C1_cut	ZUII_Gigaspora_0_rosea	z147	BEG9_5C1		BEG9	Gi.	rosea	ZUII	Gigaspora	rosea	BEG (cultured in IBOT Pruhonice) - DNA extracted from 5 spores	BEG	Pacbio_RSII	zuzana_Lib-5563	Low	2		N	
-Cl_claroideum_BEG23fromKrc_5B_cut	ZUII_Entrophospora_0_claroideum	z148	BEG23fromKrc_5B		BEG23	Cl.	claroideum	ZUII	Entrophospora	claroidea	BEG (cultured in IBOT Pruhonice) - DNA extracted from 5 spores	BEG	Pacbio_RSII	zuzana_Lib-5563	Low	6		N	
-Gi_rosea_BEG9_10_cut	ZUII_Gigaspora_0_rosea	z149	BEG9_10		BEG9	Gi.	rosea	ZUII	Gigaspora	rosea	BEG (cultured in IBOT Pruhonice) - DNA extracted from 10 spores	BEG	Pacbio_RSII	zuzana_Lib-5563	Low	1		N	
-D_heterogama_BEG35_1N_cut	ZU_Dentiscutata_0_heterogama	z15	BEG35_1N		BEG35	D.	heterogama	ZU	Dentiscutata	heterogama	BEG (Dijon) DNA extracted from 1 spore	BEG	Pacbio_Sequel_II	zuzana_Lib-6262	Yes	225		N	
-Am_gerdemannii_MT106_1C_cut	ZUII_Ambispora_0_gerdemannii	z150	MT106_1C		MT106	Am.	gerdemannii	ZUII	Ambispora	gerdemannii	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5563	Low	2		Y	MT106
-C_corymbiforme_Blask5_1C_cut	ZU_Corymbiglomus_0_corymbiforme	z16	Blask5_1C		Blaszk5	C.	corymbiforme	ZU	Corymbiglomus	corymbiforme	Janusz Blaszkowski collection - DNA extracted from 1 spore	BLASZ	Pacbio_Sequel_II	zuzana_Lib-6262	Yes	343		N	
-C_corymbiforme_Blask5_1B_cut	ZU_Corymbiglomus_0_corymbiforme	z17	Blask5_1B		Blaszk5	C.	corymbiforme	ZU	Corymbiglomus	corymbiforme	Janusz Blaszkowski collection - DNA extracted from 1 spore	BLASZ	Pacbio_Sequel_II	zuzana_Lib-6262	Yes	130		N	
-C_corymbiforme_Blask5_1A_cut	ZU_Corymbiglomus_0_corymbiforme	z18	Blask5_1A		Blaszk5	C.	corymbiforme	ZU	Corymbiglomus	corymbiforme	Janusz Blaszkowski collection - DNA extracted from 1 spore	BLASZ	Pacbio_Sequel_II	zuzana_Lib-6262	Yes	875		N	
-F_mosseae_BEG95_5A_cut	ZU_Funneliformis_0_mosseae	z19	BEG95_5A		BEG95	F.	mosseae	ZU	Funneliformis	mosseae	BEG (cultured in IBOT Pruhonice) - DNA extracted from 5 spores	BEG	Pacbio_Sequel_II	zuzana_Lib-6262	Yes	168		N	
-R_irregularis_PH5_1A_cut	ZU_Rhizophagus_0_irregularis	z2	PH5_1A		PH5	R.	irregularis	ZU	Rhizophagus	irregularis	IBOT collection (Pruhonice) - DNA extracted from 1 spore	IBOT	Pacbio_Sequel_II	zuzana_Lib-6262	Yes	1479		N	
-F_mosseae_BEG161_10A_cut	ZU_Funneliformis_0_mosseae	z20	BEG161_10A		BEG161	F.	mosseae	ZU	Funneliformis	mosseae	BEG (cultured in IBOT Pruhonice) - DNA extracted from 10 spores	BEG	Pacbio_Sequel_II	zuzana_Lib-6262	Yes	181		N	
-A_koskei_SC705_5P_cut	ZU_Acaulospora_0_koskei	z21	SC705_5P		SC705	A.	koskei	ZU	Acaulospora	koskei	INVAM - DNA extracted from 5 spores	INVAM	Pacbio_Sequel_II	zuzana_Lib-6262	Yes	563		N	
-P_occultum_CU126_10A_cut	ZU_Paraglomus_0_occultum	z22	CU126_10A		CU126	P.	occultum	ZU	Paraglomus	occultum	INVAM - DNA extracted from 10 spores	INVAM	Pacbio_Sequel_II	zuzana_Lib-6262	Yes	185		N	
-A_fennica_Af2_1A_cut	ZU_Ambispora_0_fennica	z23	Af2_1A		Af2	A.	fennica	ZU	Ambispora	fennica	Claudia Kruger collection in Průhonice - DNA extracted from 1 spore	KRUGER	Pacbio_Sequel_II	zuzana_Lib-6262	Yes	552		N	
-S_viscosum_AH179_15_1B_cut	ZU_Septoglomus_0_viscosum	z24	AH179_15_1B		AH179	S.	viscosum	ZU	Septoglomus	viscosum	Claudia Kruger collection in Průhonice - DNA extracted from 1 spore	KRUGER	Pacbio_Sequel_II	zuzana_Lib-6262	Yes	445		N	
-S_cerrevisiae_Yeast_cut	ZU_Saccharomyces_0_cerrevisiae	z25	Yeast		Yeast	S.	cerrevisiae	ZU	Saccharomyces	cerevisiae	NA	NA	Pacbio_Sequel_II	zuzana_Lib-6262	No	0	Yeast control	N	
-S_calospora_IL209_1A_cut	ZU_Scutellospora_0_calospora	z26	IL209_1A		IL209	S.	calospora	ZU	Scutellospora	calospora	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_Sequel_II	zuzana_Lib-6262	Yes	116		N	
-A_koskei_WV658_1H_cut	ZU_Acaulospora_0_koskei	z27	WV658_1H		WV658	A.	koskei	ZU	Acaulospora	koskei	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_Sequel_II	zuzana_Lib-6262	Yes	467		N	
-D_heterogama_BEG35_1O_cut	ZU_Dentiscutata_0_heterogama	z28	BEG35_1O		BEG35	D.	heterogama	ZU	Dentiscutata	heterogama	BEG (Dijon) DNA extracted from 1 spore	BEG	Pacbio_Sequel_II	zuzana_Lib-6262	Yes	118		N	
-C_luteum_SA101_5S_cut	ZU_Entrophospora_0_luteum	z29	SA101_5S		SA101	C.	luteum	ZU	Entrophospora	lutea	INVAM - DNA extracted from 5 spores	INVAM	Pacbio_Sequel_II	zuzana_Lib-6262	Low read count	98		N	
-S_viscosum_AH179_15_1A_cut	ZU_Septoglomus_0_viscosum	z3	AH179_15_1A		AH179	S.	viscosum	ZU	Septoglomus	viscosum	Claudia Kruger collection in Průhonice - DNA extracted from 1 spore	KRUGER	Pacbio_Sequel_II	zuzana_Lib-6262	Yes	1509		N	
-F_mosseae_BEG161_5B_cut	ZU_Funneliformis_0_mosseae	z30	BEG161_5B		BEG161	F.	mosseae	ZU	Funneliformis	mosseae	BEG (cultured in IBOT Pruhonice) - DNA extracted from 5 spores	BEG	Pacbio_Sequel_II	zuzana_Lib-6262	Yes	45		N	
-E_infrequens_Blask3_1F_cut	ZU_Entrophospora_0_infrequens	z31	Blask3_1F		Blaszk3	E.	infrequens	ZU	Entrophospora	infrequens	Janusz Blaszkowski collection - DNA extracted from 1 spore	BLASZ	Pacbio_Sequel_II	zuzana_Lib-6262	Low read count	1		N	
-Ac_morrowiae_BR983A_1A_cut	ZU_Acaulospora_0_morrowiae	z32	BR983A_1A		BR983A	Ac	morrowiae	ZU	Acaulospora	morrowiae	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	2992		Y	BR983A
-Gi_rosea_BR155B_1C_cut	ZU_Gigaspora_0_rosea	z33	BR155B_1C		BR155B	Gi	rosea	ZU	Gigaspora	rosea	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	1465		Y	BR155A
-Gi_rosea_KS885_1B_cut	ZU_Gigaspora_0_rosea	z34	KS885_1B		KS885	Gi	rosea	ZU	Gigaspora	rosea	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	1636		N	
-De_heterogama_IL203A_1A_cut	ZU_Dentiscutata_0_heterogama	z35	IL203A_1A		IL203A	De	heterogama	ZU	Dentiscutata	heterogama	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	1667		N	
-De_heterogama_IL203A_1C_cut	ZU_Dentiscutata_0_heterogama	z36	IL203A_1C		IL203A	De	heterogama	ZU	Dentiscutata	heterogama	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	1570		N	
-Gi_rosea_KS885_1C_cut	ZU_Gigaspora_0_rosea	z37	KS885_1C		KS885	Gi	rosea	ZU	Gigaspora	rosea	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	1056		N	
-De_heterogama_BR154_1B_cut	ZU_Dentiscutata_0_heterogama	z38	BR154_1B		BR154	De	heterogama	ZU	Dentiscutata	heterogama	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	1270		N	
-Ra_gregaria_BEG243_1A_cut	ZU_Racocetra_0_gregaria	z39	BEG243_1A		BEG243	Ra	gregaria	ZU	Racocetra	gregaria	BEG (Dijon) DNA extracted from 1 spore	BEG	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	1505		N	
-Racocetra_sp_179_Blask4_10A_cut	ZU_Racocetra_0_sp.	z4	179_Blask4_10A		179_Blask4	Racocetra	sp.	ZU	Racocetra	sp.	Janusz Blaszkowski collection - DNA extracted from 10 spores	BLASZ	Pacbio_Sequel_II	zuzana_Lib-6262	Yes	908		N	
-Ra_gregaria_BEG243_1B_cut	ZU_Racocetra_0_gregaria	z40	BEG243_1B		BEG243	Ra	gregaria	ZU	Racocetra	gregaria	BEG (Dijon) DNA extracted from 1 spore	BEG	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	1482		N	
-Gi_rosea_BR155B_1B_cut	ZU_Gigaspora_0_rosea	z41	BR155B_1B		BR155B	Gi	rosea	ZU	Gigaspora	rosea	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	929		Y	BR155A
-Gi_rosea_BR155B_1A_cut	ZU_Gigaspora_0_rosea	z42	BR155B_1A		BR155B	Gi	rosea	ZU	Gigaspora	rosea	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	654		Y	BR155A
-De_heterogama_BR154_1A_cut	ZU_Dentiscutata_0_heterogama	z43	BR154_1A		BR154	De	heterogama	ZU	Dentiscutata	heterogama	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	894		N	
-Ac_koskei_WV685_1A_cut	ZU_Acaulospora_0_koskei	z44	WV685_1A		WV685	Ac	koskei	ZU	Acaulospora	koskei	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	1393		Y	WV 685
-Gi_rosea_KS885_1A_cut	ZU_Gigaspora_0_rosea	z45	KS885_1A		KS885	Gi	rosea	ZU	Gigaspora	rosea	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	802		N	
-Di_epigaea_KS210_1A_cut	ZU_Diversispora_0_epigaea	z46	KS210_1A		KS210	Di	epigaea	ZU	Diversispora	epigaea	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	444		N	
-De_heterogama_IL203A_1B_cut	ZU_Dentiscutata_0_heterogama	z47	IL203A_1B		IL203A	De	heterogama	ZU	Dentiscutata	heterogama	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	1667		N	
-Fu_mosseae_BEG12_1C_cut	ZU_Funneliformis_0_mosseae	z48	BEG12_1C		BEG12	Fu	mosseae	ZU	Funneliformis	mosseae	BEG (Dijon) DNA extracted from 1 spore	BEG	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	327		N	
-Ra_gregaria_BEG243_1C_cut	ZU_Racocetra_0_gregaria	z49	BEG243_1C		BEG243	Ra	gregaria	ZU	Racocetra	gregaria	BEG (Dijon) DNA extracted from 1 spore	BEG	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	395		N	
-G_rosea_BEG9_1Nb_cut	ZU_Gigaspora_0_rosea	z5	BEG9_1Nb		BEG9	G.	rosea	ZU	Gigaspora	rosea	BEG (cultured in IBOT Pruhonice) - DNA extracted from 1 spore	BEG	Pacbio_Sequel_II	zuzana_Lib-6262	Yes	238		N	
-Ac_morrowiae_BR983A_5A_cut	ZU_Acaulospora_0_morrowiae	z50	BR983A_5A		BR983A	Ac	morrowiae	ZU	Acaulospora	morrowiae	INVAM - DNA extracted from 5 spores	INVAM	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	888		Y	BR983A
-De_heterogama_BR154_1C_cut	ZU_Dentiscutata_0_heterogama	z51	BR154_1C		BR154	De	heterogama	ZU	Dentiscutata	heterogama	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	599		N	
-Ac_koskei_WV685_1C_cut	ZU_Acaulospora_0_koskei	z52	WV685_1C		WV685	Ac	koskei	ZU	Acaulospora	koskei	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	488		Y	WV 685
-Di_epigaea_KS210_1C_cut	ZU_Diversispora_0_epigaea	z53	KS210_1C		KS211	Di	epigaea	ZU	Diversispora	epigaea	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	751		N	
-Fu_mosseae_BEG12_1A_cut	ZU_Funneliformis_0_mosseae	z54	BEG12_1A		BEG12	Fu	mosseae	ZU	Funneliformis	mosseae	BEG (Dijon) DNA extracted from 1 spore	BEG	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	463		N	
-Am_gerdemannii_ON205A_1C_SV_cut	ZU_Ambispora_0_gerdemannii	z55	ON205A_1C_SV		ON205A	Am	gerdemannii	ZU	Ambispora	gerdemannii	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	438		Y	ON205B
-Ac_koskei_WV685_1B_cut	ZU_Acaulospora_0_koskei	z56	WV685_1B		WV685	Ac	koskei	ZU	Acaulospora	koskei	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	329		Y	WV 685
-Ac_morrowiae_BR983A_1B_cut	ZU_Acaulospora_0_morrowiae	z57	BR983A_1B		BR983A	Ac	morrowiae	ZU	Acaulospora	morrowiae	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	335		Y	BR983A
-Di_epigaea_KS210_5A_cut	ZU_Diversispora_0_epigaea	z58	KS210_5A		KS212	Di	epigaea	ZU	Diversispora	epigaea	INVAM - DNA extracted from 5 spores	INVAM	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	214		N	
-Fu_mosseae_BEG12_1B_cut	ZU_Funneliformis_0_mosseae	z59	BEG12_1B		BEG12	Fu	mosseae	ZU	Funneliformis	mosseae	BEG (Dijon) DNA extracted from 1 spore	BEG	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	239		N	
-D_heterogama_BEG35_1M_cut	ZU_Dentiscutata_0_heterogama	z6	BEG35_1M		BEG35	D.	heterogama	ZU	Dentiscutata	heterogama	BEG (Dijon) DNA extracted from 1 spore	BEG	Pacbio_Sequel_II	zuzana_Lib-6262	Yes	486		N	
-Am_gerdemannii_ON205A_1B_cut	ZU_Ambispora_0_gerdemannii	z60	ON205A_1B		ON205A	Am	gerdemannii	ZU	Ambispora	gerdemannii	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	507		Y	ON205B
-Am_gerdemannii_ON205A_1B_SV_cut	ZU_Ambispora_0_gerdemannii	z61	ON205A_1B_SV		ON205A	Am	gerdemannii	ZU	Ambispora	gerdemannii	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	172		Y	ON205B
-Sa_cerevisiae_Yeast_cut	#N/A	z62	Yeast		Yeast	Sa	cerevisiae	ZU	Saccharomyces	cerevisiae	Yest - control	NA	Pacbio_Sequel_II	zuzana_Lib-6273	No	0	Yeast control	N	
-De_heterogama_IL203A_1C_cut	ZU_Dentiscutata_0_heterogama	z63	IL203A_1C		IL203A	De.	heterogama	ZUII	Dentiscutata	heterogama	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5018	Low	79		N	
-De_heterogama_IL203A_1A_cut	ZU_Dentiscutata_0_heterogama	z64	IL203A_1A		IL203A	De.	heterogama	ZUII	Dentiscutata	heterogama	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5018	Low	72		N	
-De_heterogama_BR154_1B_cut	ZU_Dentiscutata_0_heterogama	z65	BR154_1B		BR154	De.	heterogama	ZUII	Dentiscutata	heterogama	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5018	Low	51		N	
-De_heterogama_BR154_1A_cut	ZU_Dentiscutata_0_heterogama	z66	BR154_1A		BR154	De.	heterogama	ZUII	Dentiscutata	heterogama	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5018	Low	49		N	
-Gi_rosea_KS885_1C_cut	ZU_Gigaspora_0_rosea	z67	KS885_1C		KS885	Gi.	rosea	ZUII	Gigaspora	rosea	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5018	Low	40		N	
-Ac_morrowiae_BR983A_1B_cut	ZU_Acaulospora_0_morrowiae	z68	BR983A_1B		BR983A	Ac.	morrowiae	ZUII	Acaulospora	morrowiae	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5018	Low	73		Y	BR983A
-Gi_rosea_BR155B_1B_cut	ZU_Gigaspora_0_rosea	z69	BR155B_1B		BR155B	Gi.	rosea	ZUII	Gigaspora	rosea	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5018	Low	17		Y	BR155A
-A_koskei_WV685_1F_cut	ZU_Acaulospora_0_koskei	z7	WV685_1F		WV685	A.	koskei	ZU	Acaulospora	koskei	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_Sequel_II	zuzana_Lib-6262	Yes	1101		Y	WV 685
-Ac_morrowiae_BR983A_5A_cut	ZU_Acaulospora_0_morrowiae	z70	BR983A_5A		BR983A	Ac.	morrowiae	ZUII	Acaulospora	morrowiae	INVAM - DNA extracted from 5 spores	INVAM	Pacbio_RSII	zuzana_Lib-5018	Low	61		Y	BR983A
-De_heterogama_BR154_1C_cut	ZU_Dentiscutata_0_heterogama	z71	BR154_1C		BR154	De.	heterogama	ZUII	Dentiscutata	heterogama	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5018	Low	42		N	
-Gi_rosea_BR155B_1C_cut	ZU_Gigaspora_0_rosea	z72	BR155B_1C		BR155B	Gi.	rosea	ZUII	Gigaspora	rosea	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5018	Low	21		Y	BR155A
-Fu_mosseae_BEG12_1B_cut	ZU_Funneliformis_0_mosseae	z73	BEG12_1B		BEG12	Fu.	mosseae	ZUII	Funneliformis	mosseae	BEG (Dijon) DNA extracted from 1 spore	BEG	Pacbio_RSII	zuzana_Lib-5018	Low	23		N	
-Gi_rosea_KS885_1B_cut	ZU_Gigaspora_0_rosea	z74	KS885_1B		KS885	Gi.	rosea	ZUII	Gigaspora	rosea	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5018	Low	39		N	
-Am_gerdemannii_ON205A_1B_SV_cut	ZU_Ambispora_0_gerdemannii	z75	ON205A_1B_SV		ON205A	Am.	gerdemannii	ZUII	Ambispora	gerdemannii	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5018	Low	36		Y	ON205B
-Gi_rosea_BR155B_1A_cut	ZU_Gigaspora_0_rosea	z76	BR155B_1A		BR155B	Gi.	rosea	ZUII	Gigaspora	rosea	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5018	Low	17		Y	BR155A
-De_heterogama_IL203A_1B_cut	ZU_Dentiscutata_0_heterogama	z77	IL203A_1B		IL203A	De.	heterogama	ZUII	Dentiscutata	heterogama	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5018	Low	30		N	
-Ra_gregaria_BEG243_1A_cut	ZU_Racocetra_0_gregaria	z78	BEG243_1A		BEG243	Ra.	gregaria	ZUII	Racocetra	gregaria	BEG (Dijon) DNA extracted from 1 spore	BEG	Pacbio_RSII	zuzana_Lib-5018	Low	46		N	
-Ra_gregaria_BEG243_1B_cut	ZU_Racocetra_0_gregaria	z79	BEG243_1B		BEG243	Ra.	gregaria	ZUII	Racocetra	gregaria	BEG (Dijon) DNA extracted from 1 spore	BEG	Pacbio_RSII	zuzana_Lib-5018	Low	46		N	
-S_calospora_IL209_1C_cut	ZU_Scutellospora_0_calospora	z8	IL209_1C		IL209	S.	calospora	ZU	Scutellospora	calospora	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_Sequel_II	zuzana_Lib-6262	Yes	382		N	
-Gi_rosea_KS885_1A_cut	ZU_Gigaspora_0_rosea	z80	KS885_1A		KS885	Gi.	rosea	ZUII	Gigaspora	rosea	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5018	Low	27		N	
-Ac_koskei_WV685_1A_cut	ZU_Acaulospora_0_koskei	z81	WV685_1A		WV685	Ac.	koskei	ZUII	Acaulospora	koskei	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5018	Low	57		Y	WV 685
-Fu_mosseae_BEG12_1C_cut	ZU_Funneliformis_0_mosseae	z82	BEG12_1C		BEG12	Fu.	mosseae	ZUII	Funneliformis	mosseae	BEG (Dijon) DNA extracted from 1 spore	BEG	Pacbio_RSII	zuzana_Lib-5018	Low	5		N	
-Fu_mosseae_BEG12_1A_cut	ZU_Funneliformis_0_mosseae	z83	BEG12_1A		BEG12	Fu.	mosseae	ZUII	Funneliformis	mosseae	BEG (Dijon) DNA extracted from 1 spore	BEG	Pacbio_RSII	zuzana_Lib-5018	Low	23		N	
-Ac_morrowiae_BR983A_1A_cut	ZU_Acaulospora_0_morrowiae	z84	BR983A_1A		BR983A	Ac.	morrowiae	ZUII	Acaulospora	morrowiae	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5018	Low	48		Y	BR983A
-Am_gerdemannii_ON205A_1C_SV_cut	ZU_Ambispora_0_gerdemannii	z85	ON205A_1C_SV		ON205A	Am.	gerdemannii	ZUII	Ambispora	gerdemannii	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5018	Low	20		Y	ON205B
-Di_epigaea_KS210_1C_cut	ZU_Diversispora_0_epigaea	z86	KS210_1C		KS213	Di.	epigaea	ZUII	Diversispora	epigaea	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5018	Low	33		N	
-Am_gerdemannii_ON205A_1B_cut	ZU_Ambispora_0_gerdemannii	z87	ON205A_1B		ON205A	Am.	gerdemannii	ZUII	Ambispora	gerdemannii	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5018	Low	65		Y	ON205B
-Di_epigaea_KS210_5A_cut	ZU_Diversispora_0_epigaea	z88	KS210_5A		KS214	Di.	epigaea	ZUII	Diversispora	epigaea	INVAM - DNA extracted from 5 spores	INVAM	Pacbio_RSII	zuzana_Lib-5018	Low	4		N	
-Ac_koskei_WV685_1C_cut	ZU_Acaulospora_0_koskei	z89	WV685_1C		WV685	Ac.	koskei	ZUII	Acaulospora	koskei	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5018	Low	8		Y	WV 685
-P_occultum_CU126_10B_cut	ZU_Paraglomus_0_occultum	z9	CU126_10B		CU126	P.	occultum	ZU	Paraglomus	occultum	INVAM - DNA extracted from 10 spores	INVAM	Pacbio_Sequel_II	zuzana_Lib-6262	Yes	553		N	
-Di_epigaea_KS210_1A_cut	ZU_Diversispora_0_epigaea	z90	KS210_1A		KS215	Di.	epigaea	ZUII	Diversispora	epigaea	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5018	Low	8		N	
-Ra_gregaria_BEG243_1C_cut	ZU_Racocetra_0_gregaria	z91	BEG243_1C		BEG243	Ra.	gregaria	ZUII	Racocetra	gregaria	BEG (Dijon) DNA extracted from 1 spore	BEG	Pacbio_RSII	zuzana_Lib-5018	Low	6		N	
-Ac_koskei_WV685_1B_cut	ZU_Acaulospora_0_koskei	z92	WV685_1B		WV685	Ac.	koskei	ZUII	Acaulospora	koskei	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5018	Low	4		Y	WV 685
-Sac_cerevisiae_cut	ZUII_Saccharomyces_0_cerevisiae	z93	Sa_cerev		Yeast	Sa.	cerevisiae	ZUII	Saccharomyces	cerevisiae	control	NA	Pacbio_RSII	zuzana_Lib-5018	Low	3		N	
-Pa_Brasilianum_FL710_1C_cut	ZUII_Paraglomus_0_Brasilianum	z94	FL710_1C		FL710	Pa.	Brasilianum	ZUII	Paraglomus	brasilianum	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5090	Yes	231		Y	FL710
-Rh_Irregularis_Chomutov_1A_cut	ZUII_Rhizophagus_0_Irregularis	z95	Chomutov_1A		Chomutov	Rh.	Irregularis	ZUII	Rhizophagus	irregularis	IBOT collection (Pruhonice) - DNA extracted from 1 spore	IBOT	Pacbio_RSII	zuzana_Lib-5090	Yes	264		N	
-Cl_Luteum_CR308_1A_cut	ZUII_Entrophospora_0_Luteum	z96	CR308_1A		CR308	Cl.	Luteum	ZUII	Entrophospora	lutea	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5090	Yes	210		N	
-Pa_Brasilianum_FL710_5A_cut	ZUII_Paraglomus_0_Brasilianum	z97	FL710_5A		FL710	Pa.	Brasilianum	ZUII	Paraglomus	brasilianum	INVAM - DNA extracted from 5 spores	INVAM	Pacbio_RSII	zuzana_Lib-5090	Yes	260		Y	FL710
-Ac_Laevis_BEG26_1_3_cut	ZUII_Acaulospora_0_Laevis	z98	BEG26_1_3		BEG26	Ac.	Laevis	ZUII	Acaulospora	laevis	BEG (Dijon) DNA extracted from 1 spore	BEG	Pacbio_RSII	zuzana_Lib-5090	Low	60		N	
-Cl_Luteum_CR308_1C_cut	ZUII_Entrophospora_0_Luteum	z99	CR308_1C		CR308	Cl.	Luteum	ZUII	Entrophospora	lutea	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5090	Yes	164		N	
+Sample_5	KU_Gigaspora_margarita_NC114B	5	NC114B		NC114B	Gigaspora	margarita	KU	Gigaspora	margarita	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	496		Y	NC114A
+Sample_6	KU_Funneliformis_caledonius_HA692B	6	HA692B		HA692B	Funneliformis	caledonius	KU	Funneliformis	caledonius	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	No	0		Y	HA692_B-25
+Sample_7	KU_Rhizophagus_sinuosus_MD126	7	MD126		MD126	Rhizophagus	sinuosus	KU	Rhizophagus	sinuosus	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	290		Y	MD126
+Sample_8	KU_Ambispora_gerdemannii_MT106	8	MT106		MT106	Ambispora	gerdemannii	KU	Ambispora	gerdemannii	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	1051		Y	MT106
+Sample_9	KU_Gigaspora_albida_BR235	9	BR235		BR235	Gigaspora	albida	KU	Gigaspora	albida	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	1288		N	
+Sample_10	KU_Racocetra_gregaria_NC210	10	NC210		NC210	Racocetra	gregaria	KU	Racocetra	gregaria	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Low read count	68		Y	NC210
+Sample_11	KU_Ambispora_leptoticha_MX982A	11	MX982A		MX982A	Ambispora	leptoticha	KU	Ambispora	leptoticha	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	1055		Y	MX982A
+Sample_12	KU_Acaulospora_sp._TU102C	12	TU102C		TU102C	Acaulospora	sp.	KU	Acaulospora	sp.	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Marginal	1	1 original total sequences, but lost with a 3000bp filter cuttoff	N	
+Sample_13	KU_Acaulospora_paulinae_AU103A	13	AU103A		AU103A	Acaulospora	pauliniae	KU	Acaulospora	paulinae	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Marginal	1	1 original total sequences, but lost with a 3000bp filter cuttoff	Y	AU103A
+Sample_14	KU_Diversispora_trimurales?_NB103A	14	NB103A		NB103A	Diversispora	sp.	KU	Diversispora	trimurales?	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	530	trimurales?	N	
+Sample_15	KU_Funneliformis_coronatus_MR101	15	MR101		MR101	Funneliformis	coronatum	KU	Funneliformis	coronatus	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	1749		N	
+Sample_16	KU_Acaulospora_tuberculata_VZ103E	16	VZ103E		VZ103E	Acaulospora	tuberculata	KU	Acaulospora	tuberculata	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	178		Y	VZ103E
+Sample_17	KU_Diversispora_tortuosa_JA306A	17	JA306A		JA306A	Diversispora	tortuosum	KU	Diversispora	tortuosa	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	282		Y	JA306A
+Sample_18	KU_Entrophospora_infrequens_CA203	18	CA203		CA203	Entrophospora	infrequens	KU	Entrophospora	infrequens	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	994		Y	CA203
+Sample_19	KU_Rhizophagus_clarus_FL879N	19	FL879N		FL879N	Rhizophagus	manihotis	KU	Rhizophagus	clarus	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	2097		Y	FL879N
+Sample_20	KU_Gigaspora_rosea_FL105_11	20	FL105-11		FL105_11	Gigaspora	rosea	KU	Gigaspora	rosea	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	121		N	
+Sample_21	KU_Acaulospora_elegans_FL736A	21	FL736A		FL736A	Acaulospora	elegans	KU	Acaulospora	elegans	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Low read count	15		Y	FL736A
+Sample_22	KU_Diversispora_eburnea_KE124	22	KE124		KE124	Diversispora	eburnea	KU	Diversispora	eburnea	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Low read count	3		N	
+Sample_23	KU_Acaulospora_mellea_CL649	23	CL649		CL649	Acaulospora	mellea	KU	Acaulospora	mellea	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	252		N	
+Sample_24	KU_Septoglomus_constrictum_FL328	24	FL328		FL328	Septoglomus	constrictum	KU	Septoglomus	constrictum	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	626		Y	FL328
+Sample_25	KU_Rhizophagus_dimorphicus_FL912N	25	FL912N*	both morphotypes	FL912N	Rhizophagus	dimorphicus	KU	Rhizophagus	dimorphicus	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	596	Liz is not sure which morph this is	Y	FL912N
+Sample_26	KU_Glomus_globiferum_NM105	26	NM105		NM105	Diversispora	globifera	KU	Glomus	globiferum	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Low read count	2		N	
+Sample_27	KU_Glomus_hyaline_WV692B	27	WV692B		WV692B	Glomus	hyaline	KU	Glomus	hyaline	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Low read count	2		Y	WV692B
+Sample_28	KU_Glomus_trufemii_MGR571A	28	MGR571A		MGR571A	Glomus	trufemii	KU	Glomus	trufemii	cicg	CICG	Pacbio_Sequel_II	KU-FGCZ	No	0		N	
+Sample_29	KU_Entrophospora_sp._SCT912C	29	SCT912C		SCT912C	Claroideoglomus	sp.	KU	Entrophospora	sp.	cicg	CICG	Pacbio_Sequel_II	KU-FGCZ	Yes	547		N	
+Sample_30	KU_Entrophospora_sp._SCT911B	30	SCT911B		SCT911B	Claroideoglomus	sp.	KU	Entrophospora	sp.	cicg	CICG	Pacbio_Sequel_II	KU-FGCZ	Low read count	1		N	
+Sample_31	KU_Scutellospora_weresubiae_SCT377A_1	31	SCT377A-1		SCT377A_1	Scutellospora	weresubiae	KU	Scutellospora	weresubiae	cicg	CICG	Pacbio_Sequel_II	KU-FGCZ	Yes	135		N	
+Sample_32	KU_Paraglomus_sp._SCT001C	32	SCT001C		SCT001C	Paraglomus	sp.	KU	Paraglomus	sp.	cicg	CICG	Pacbio_Sequel_II	KU-FGCZ	Marginal	2	2 original total sequences, but lost with a 3000bp filter cuttoff	N	
+Sample_33	KU_Paraglomus_occultum_NC258	33	NC258		NC258	Paraglomus	occultum	KU	Paraglomus	occultum	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	1085		N	
+Sample_34	KU_Racocetra_coralloidea_CA260	34	CA260		CA260	Racocetra	coralloidea	KU	Racocetra	coralloidea	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Marginal	1	1 original total sequences, but lost with a 3000bp filter cuttoff	Y	CA260
+Sample_35	KU_Funneliformis_fragilistratum_DN988	35	DN988		DN988	Funneliformis	fragilistratum	KU	Funneliformis	fragilistratum	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	1231		Y	DN988
+Sample_36	KU_Rhizophagus_clarus_BR147B	36	BR147B		BR147B	Rhizophagus	clarus	KU	Rhizophagus	clarus	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	1110		N	
+Sample_37	KU_Rhizophagus_intraradices_IS185_26	37	IS185-26		IS185_26	Rhizophagus	intraradices	KU	Rhizophagus	intraradices	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	913		N	
+Sample_38	KU_Archaeospora_schenckii_CL401	38	CL401		CL401	Archaeospora	schenckii	KU	Archaeospora	schenckii	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	1540		Y	CL401
+Sample_39	KU_Innospora_majewski_JA205B	39	JA205B		JA205B	Paraglomus	mirificum	KU	Innospora	majewski	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	514		Y	JA205F
+Sample_40	KU_Diversispora_epigaea_KS210	40	KS210		KS210	Diversispora	epigaea	KU	Diversispora	epigaea	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	397		N	
+Sample_41	KU_Glomus_mortonii_507	41	507		507	Glomus	mortonii	KU	Glomus	mortonii	lab	KU	Pacbio_Sequel_II	KU-FGCZ	Low read count	15		N	
+Sample_42	KU_Entrophospora_infrequens_110_11A	42	110-11A		110_11A	Entrophospora	infrequens	KU	Entrophospora	infrequens	lab	KU	Pacbio_Sequel_II	KU-FGCZ	Yes	460		N	
+Sample_43	KU_Rhizophagus_intraradices_513_7	43	513-7		513_7	Rhizophagus	intraradices	KU	Rhizophagus	intraradices	lab	KU	Pacbio_Sequel_II	KU-FGCZ	No	0		N	
+Sample_44	KU_Dentiscutata_heterogama_FL728	44	FL728		FL728	Dentiscutata	heterogama	KU	Dentiscutata	heterogama	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	1010		N	
+Sample_45	KU_Entrophospora_infrequens_95_10	45	95-10		95_10	Entrophospora	infrequens	KU	Entrophospora	infrequens	lab	KU	Pacbio_Sequel_II	KU-FGCZ	Yes	138		N	
+Sample_46	KU_Funneliformis_mosseae_87_11	46	87-11		87_11	Funneliformis	mosseae	KU	Funneliformis	mosseae	lab	KU	Pacbio_Sequel_II	KU-FGCZ	Yes	1358		N	
+Sample_47	KU_Paraglomus_sp._SCT836A	47	SCT836A		SCT836A	Paraglomus	sp.	KU	Paraglomus	sp.	cicg	CICG	Pacbio_Sequel_II	KU-FGCZ	Marginal	1	1 original total sequences, but lost with a 3000bp filter cuttoff	N	
+Sample_48	KU_Paraglomus_sp._GOI408A	48	GOI408A		GOI408A	Paraglomus	sp.	KU	Paraglomus	sp.	cicg	CICG	Pacbio_Sequel_II	KU-FGCZ	Marginal	1	1 original total sequences, but lost with a 3000bp filter cuttoff	N	
+Sample_49	KU_Paraglomus_sp._SCT157F	49	SCT157F		SCT157F	Paraglomus	sp.	KU	Paraglomus	sp.	cicg	CICG	Pacbio_Sequel_II	KU-FGCZ	Low read count	2		N	
+Sample_50	KU_Paraglomus_sp._SCT377A_2	50	SCT377A-2		SCT377A_2	Paraglomus	sp.	KU	Paraglomus	sp.	cicg	CICG	Pacbio_Sequel_II	KU-FGCZ	No	0		N	
+Sample_51	KU_Paraglomus_sp._TOC235C	51	TOC235C		TOC235C	Paraglomus	sp.	KU	Paraglomus	sp.	cicg	CICG	Pacbio_Sequel_II	KU-FGCZ	No	0		N	
+Sample_52	KU_Entrophospora_claroidea_69_9A	52	69-9A		69_9A	Claroideoglomus	claroideum	KU	Entrophospora	claroidea	lab	KU	Pacbio_Sequel_II	KU-FGCZ	Yes	757		N	
+Sample_53	KU_Racocetra_fulgida_57_11	53	57-11		57_11	Racocetra	fulgida	KU	Racocetra	fulgida	lab	KU	Pacbio_Sequel_II	KU-FGCZ	Marginal	1	1 original total sequences, but lost with a 3000bp filter cuttoff	N	
+Sample_54	KU_Entrophospora_candida_6_11	54	6-11		6_11	Claroideoglomus	candidum	KU	Entrophospora	candida	lab	KU	Pacbio_Sequel_II	KU-FGCZ	No	0		N	
+Sample_55	KU_Rhizophagus_clarus_408_8	55	408-8		408_8	Rhizophagus	clarus	KU	Rhizophagus	clarus	lab	KU	Pacbio_Sequel_II	KU-FGCZ	No	0		N	
+Sample_56	KU_Funneliformis_mosseae_514_8A	56	514-8A		514_8A	Funneliformis	mosseae	KU	Funneliformis	mosseae	lab	KU	Pacbio_Sequel_II	KU-FGCZ	No	0		N	
+Sample_57	KU_Entrophospora_lamellosa_114_11A	57	114-11A		114_11A	Claroideoglomus	lamellosum	KU	Entrophospora	lamellosa	lab	KU	Pacbio_Sequel_II	KU-FGCZ	No	0		N	
+Sample_58	KU_Gigaspora_margarita_120_7A	58	120-7A		120_7A	Gigaspora	margarita	KU	Gigaspora	margarita	lab	KU	Pacbio_Sequel_II	KU-FGCZ	Yes	412		N	
+Sample_59	KU_Cetraspora_pellucida_124_8	59	124-8		124_8	Cetraspora	pellucida	KU	Cetraspora	pellucida	lab	KU	Pacbio_Sequel_II	KU-FGCZ	Marginal	1	1 original total sequences, but lost with a 3000bp filter cuttoff	N	
+Sample_60	KU_Entrophospora_etunicata_BR232C	60	BR232C-17		BR232C	Claridioglomus	etunicatum	KU	Entrophospora	etunicata	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	No	0		N	
+Sample_61	KU_Archaeospora_trappei_SF124_22	61	SF124-22		SF124_22	Archaeospora	trappei	KU	Archaeospora	trappei	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Low read count	81		N	
+Sample_62	KU_Gigaspora_rosea_BR155B	62	BR155B-2		BR155B	Gigaspora	rosea	KU	Gigaspora	rosea	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	339		Y	BR155A
+Sample_64	KU_Glomus_mortonii_205_8	64	205-8		205_8	Glomus	mortonii	KU	Glomus	mortonii	lab	KU	Pacbio_Sequel_II	KU-FGCZ	Yes	107		N	
+Sample_65	KU_Entrophospora_claroidea_121_12A	65	121-12A		121_12A	Claroideoglomus	claroideum	KU	Entrophospora	claroidea	lab	KU	Pacbio_Sequel_II	KU-FGCZ	No	0		N	
+Sample_66	KU_Glomus_mortonii_503_6A	66	503-6A		503_6A	Glomus	mortonii	KU	Glomus	mortonii	lab	KU	Pacbio_Sequel_II	KU-FGCZ	No	0		N	
+Sample_67	KU_Entrophospora_lutea_SA101	67	SA101		SA101	Claroideoglomus	claroideum/luteum	KU	Entrophospora	lutea	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Marginal	2	2 original total sequences, but lost with a 3000bp filter cuttoff	N	
+Sample_68	KU_Unknown_3006A	68	3006A		3006A	NA	NA	KU	Unknown	NA	lab	KU	Pacbio_Sequel_II	KU-FGCZ	No	0		N	
+Sample_69	KU_Funneliformis_mosseae_NC302C	69	NC302C-C12		NC302C	Funneliformis	mosseae	KU	Funneliformis	mosseae	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	1612		Y	NC302A
+Sample_70	KU_Unknown_JAY1	70	11 = JAY 1		JAY1	NA	NA	KU	Unknown	NA	jay	JAY	Pacbio_Sequel_II	KU-FGCZ	Yes	309	unknown AMF	N	
+Sample_71	KU_Unknown_JAY2	71	12 = JAY 2		JAY2	NA	NA	KU	Unknown	NA	jay	JAY	Pacbio_Sequel_II	KU-FGCZ	Low read count	1	unknown AMF	N	
+Sample_72	KU_Unknown_JAY3	72	13 = JAY 3		JAY3	NA	NA	KU	Unknown	NA	jay	JAY	Pacbio_Sequel_II	KU-FGCZ	No	0	unknown AMF	N	
+Sample_73	KU_Unknown_JAY4	73	14 = JAY 4		JAY4	NA	NA	KU	Unknown	NA	jay	JAY	Pacbio_Sequel_II	KU-FGCZ	No	0	unknown AMF	N	
+Sample_74	KU_undecided_SMB_6	74	SMB-6		SMB_6	NA	NA	KU	undecided	NA	lab	KU	Pacbio_Sequel_II	KU-FGCZ	Marginal	499	499 original total sequences, but lost with a 3000bp filter cuttoff	N	
+Sample_75	KU_Rhizophagus_diaphanus_WV579B	75	WV579B		WV579B	Rhizophagus	diaphanus	KU	Rhizophagus	diaphanus	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Low read count	2		Y	WV579B
+Sample_76	KU_Rhizophagus_microaggregatum_UT126B	76	UT126B		UT126B	Glomus	microaggregatum	KU	Rhizophagus	microaggregatum	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Marginal	1	1 original total sequences, but lost with a 3000bp filter cuttoff	Y	UT126A
+Sample_77	KU_Paraglomus_brasilianum_FL710_19	77	FL710-19		FL710_19	Paraglomus	brasilianum	KU	Paraglomus	brasilianum	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	905		Y	FL710
+Sample_78	KU_Dentiscutata_heterogama_FL225_25	78	FL225-25		FL225_25	Dentiscutata	heterogama	KU	Dentiscutata	heterogama	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Low read count	29		N	
+Sample_79	KU_Acaulospora_koskei_WV103_16	79	WV103-16		WV103_16	Acaulospora	koskei	KU	Acaulospora	koskei	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Marginal	1	1 original total sequences, but lost with a 3000bp filter cuttoff	N	
+Sample_80	KU_Gigaspora_gigantea_KS302	80	KS302-22		KS302	Gigaspora	gigantea	KU	Gigaspora	gigantea	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	597		N	
+Sample_81	KU_Racocetra_verrucosa_VA103A	81	VA103A		VA103A	Racocetra	verrucosa	KU	Racocetra	verrucosa	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Marginal	1	1 original total sequences, but lost with a 3000bp filter cuttoff	Y	VA103A
+Sample_82	KU_Septoglomus_constrictum_KS890	82	KS890-29		KS890	Septoglomus	constrictum	KU	Septoglomus	constrictum	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	572		Y	KS890
+Sample_83	KU_Diversispora_spurca_WV109G_16	83	WV109G-16		WV109G_16	Diversispora	spurca	KU	Diversispora	spurca	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Marginal	1	1 original total sequences, but lost with a 3000bp filter cuttoff	Y	WV109A
+Sample_84	KU_Acaulospora_kentinensis_FL709_10	84	FL709-10		FL709_10	Acaulospora	kentinensis	KU	Acaulospora	kentinensis	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Low read count	6		Y	FL709A
+Sample_85	KU_Dentiscutata_erythropa_RI275_31	85	RI275-31		RI275_31	Dentiscutata	erythropa	KU	Dentiscutata	erythropa	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	1247		Y	RI275B
+Sample_86	KU_Racocetra_persica_MA461A	86	MA461A		MA461A	Racocetra	persica	KU	Racocetra	persica	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Low read count	15		N	
+Sample_87	KU_Cetraspora_pellucida_305_7	87	305-7		305_7	Cetraspora	pellucida	KU	Cetraspora	pellucida	lab	KU	Pacbio_Sequel_II	KU-FGCZ	No	0		N	
+Sample_88	KU_Funneliformis_monosporus_WY107	88	WY107		WY107	Funneliformis	monosporum	KU	Funneliformis	monosporus	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	999		Y	WY107
+Sample_89	KU_Gigaspora_decipiens_AU102_9	89	AU102-9		AU102_9	Gigaspora	decipiens	KU	Gigaspora	decipiens	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Yes	633		Y	AU102 B-9/AU102B
+Sample_90	KU_Funneliformis_mosseae_510_4A	90	510-4A		510_4A	Funneliformis	mosseae	KU	Funneliformis	mosseae	lab	KU	Pacbio_Sequel_II	KU-FGCZ	Yes	999		N	
+Sample_96	KU_Septoglomus_deserticola_HA201	96	HA201		HA201	Septoglomus	deserticola	KU	Septoglomus	deserticola	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	Low read count	46		Y	HA201-20-I
+Sample_99	KU_Acaulospora_colombiana_BR947	99	BR947-12		BR947	Acaulospora	colombiana	KU	Acaulospora	colombiana	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	No	0		Y	BR947NB
+Sample_110	KU_Entrophospora_candida_6_11	110	6-11 2		6_11	Claroideoglomus	candidum	KU	Entrophospora	candida	lab	KU	Pacbio_Sequel_II	KU-FGCZ	No	0	duplicate 	N	
+Sample_111	KU_Entrophospora_candida_300	111	300		300	Claroideoglomus	candidum	KU	Entrophospora	candida	lab	KU	Pacbio_Sequel_II	KU-FGCZ	No	0		N	
+Sample_117	KU_Field_DP16	117	Field-DP16		Field_DP16	NA	NA	KU	NA	NA	liz	LIZ	Pacbio_Sequel_II	KU-FGCZ	Yes	586	field sample	N	
+Sample_118	KU_Field_MB24	118	Field-MB24		Field_MB24	NA	NA	KU	NA	NA	liz	LIZ	Pacbio_Sequel_II	KU-FGCZ	Yes	537	field sample	N	
+Sample_120	KU_Rhizophagus_dimorphicus_FL912N_B	120	FL912N* (FL912B)	black morph	FL912N_B	Rhizophagus	dimorphicus	KU	Rhizophagus	dimorphicus	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	No	0		Y	FL912N
+Sample_121	KU_Rhizophagus_dimorphicus_FL912N_W	121	FL912N* (FL912W)	white morph	FL912N_W	Rhizophagus	dimorphicus	KU	Rhizophagus	dimorphicus	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	No	0		Y	FL912N
+Sample_122	KU_Acaulospora_koskei_MG101B	122	MG101B		MG101B	Acaulospora	koskei	KU	Acaulospora	koskei	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	No	0		N	
+Sample_123	KU_Archaeospora_trappei_NC104B	123	NC104B		NC104B	Archaeospora	trappei	KU	Archaeospora	trappei	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	No	0		N	
+Sample_124	KU_Scutellospora_calospora_WA106	124	WA106		WA106	Scutellospora	calospora	KU	Scutellospora	calospora	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	No	0		N	
+Sample_125	KU_Gigaspora_albida_BEG17	125	BEG17		BEG17	Gigaspora	albida	KU	Gigaspora	albida	invam	INVAM	Pacbio_Sequel_II	KU-FGCZ	No	0		N	
+P_laccatum_AH960_55_cut	ZU_Paraglomus_laccatum_AH960_55	z1	AH960_55		AH960_55	P.	laccatum	ZU	Paraglomus	laccatum	Claudia Kruger collection in Průhonice - DNA extracted from 1 spore	KRUGER	Pacbio_Sequel_II	zuzana_Lib-6262	Yes	1473		N	
+S_viscosum_AH179_15_1C_cut	ZU_Septoglomus_viscosum_AH179	z10	AH179_15_1C		AH179	S.	viscosum	ZU	Septoglomus	viscosum	Claudia Kruger collection in Průhonice - DNA extracted from 1 spore	KRUGER	Pacbio_Sequel_II	zuzana_Lib-6262	Yes	1142		N	
+Sc_calospora_BEG245_5A_cut	ZUII_Scutellospora_calospora_BEG245	z100	BEG245_5A		BEG245	Sc.	calospora	ZUII	Scutellospora	calospora	BEG (Dijon) DNA extracted from 5 spores	BEG	Pacbio_RSII	zuzana_Lib-5090	Low	10		N	
+Cl_Etunicatum_IN101_1B_cut	ZUII_Entrophospora_etunicata_IN101	z101	IN101_1B		IN101	Cl.	Etunicatum	ZUII	Entrophospora	etunicata	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5090	Yes	107		Y	IN 101 B
+Ac_Laevis_BEG26_1C_cut	ZUII_Acaulospora_laevis_BEG26	z102	BEG26_1C		BEG26	Ac.	Laevis	ZUII	Acaulospora	laevis	BEG (Dijon) DNA extracted from 1 spore	BEG	Pacbio_RSII	zuzana_Lib-5090	Low	7		N	
+A_leptoticha_CR312_1C_cut	ZUII_Ambispora_leptoticha_CR312	z103	CR312_1C		CR312	A.	leptoticha	ZUII	Ambispora	leptoticha	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5090	Low	20		Y	CR 312
+A_leptoticha_CR312_1B_cut	ZUII_Ambispora_leptoticha_CR312	z104	CR312_1B		CR312	A.	leptoticha	ZUII	Ambispora	leptoticha	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5090	Low	69		Y	CR 312
+SccalosporaAU212B1C_cut	ZUII_Scutellospora_calospora_AU212B	z105	AU212B_1C		AU212B	Sc.	calospora	ZUII	Scutellospora	calospora	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5090	Yes	153		Y	AU212A
+Ac_Laevis_BEG26_1D_cut	ZUII_Acaulospora_laevis_BEG26	z106	BEG26_1D		BEG26	Ac.	Laevis	ZUII	Acaulospora	laevis	BEG (Dijon) DNA extracted from 1 spore	BEG	Pacbio_RSII	zuzana_Lib-5090	Low	42		N	
+A_leptoticha_CR312_1A_cut	ZUII_Ambispora_leptoticha_CR312	z107	CR312_1A		CR312	A.	leptoticha	ZUII	Ambispora	leptoticha	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5090	Low	4		Y	CR 312
+Ac_Laevis_BEG242_1D_cut	ZUII_Acaulospora_laevis_BEG242	z108	BEG242_1D		BEG242	Ac.	Laevis	ZUII	Acaulospora	laevis	BEG (Dijon) DNA extracted from 1 spore	BEG	Pacbio_RSII	zuzana_Lib-5090	Low	16		N	
+Sc_calospora_BEG245_1B_cut	ZUII_Scutellospora_calospora_BEG245	z109	BEG245_1B		BEG245	Sc.	calospora	ZUII	Scutellospora	calospora	BEG (Dijon) DNA extracted from 1 spore	BEG	Pacbio_RSII	zuzana_Lib-5090	Low	63		N	
+A_trappei_CU132_5P_cut	ZU_Archaeospora_trappei_CU132	z11	CU132_5P		CU132	A.	trappei	ZU	Archaeospora	trappei	INVAM - DNA extracted from 5 spores	INVAM	Pacbio_Sequel_II	zuzana_Lib-6262	Yes	347		N	
+Sc_calospora_AU212B_10B_cut	ZUII_Scutellospora_calospora_AU212B	z110	AU212B_10B		AU212B	Sc.	calospora	ZUII	Scutellospora	calospora	INVAM - DNA extracted from 10 spores	INVAM	Pacbio_RSII	zuzana_Lib-5090	Low	1		N	
+Sc_calospora_BEG245_10A_cut	ZUII_Scutellospora_calospora_BEG245	z111	BEG245_10A		BEG245	Sc.	calospora	ZUII	Scutellospora	calospora	BEG (Dijon) DNA extracted from 10 spores	BEG	Pacbio_RSII	zuzana_Lib-5090	Low	14		N	
+Sc_calospora_AU212B_5A_cut	ZUII_Scutellospora_calospora_AU212B	z112	AU212B_5A		AU212B	Sc.	calospora	ZUII	Scutellospora	calospora	INVAM - DNA extracted from 5 spores	INVAM	Pacbio_RSII	zuzana_Lib-5090	Low	5		N	
+Cl_Etunicatum_IN101_1A_cut	ZUII_Entrophospora_etunicata_IN101	z113	IN101_1A		IN101	Cl.	Etunicatum	ZUII	Entrophospora	etunicata	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5090	Low	64		Y	IN 101 B
+Cl_Luteum_CR308_5A_cut	ZUII_Entrophospora_lutea_CR308	z114	CR308_5A		CR308	Cl.	Luteum	ZUII	Entrophospora	lutea	INVAM - DNA extracted from 5 spores	INVAM	Pacbio_RSII	zuzana_Lib-5090	Low	26		N	
+Se_deserticola_NC302A_1C_cut	ZUII_Septoglomus_deserticola_NC302A	z115	NC302A_1C		NC302A	Se.	deserticola	ZUII	Septoglomus	deserticola	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5090	Low	1		Y	NC302A
+Se_deserticola_NC302A_5A_cut	ZUII_Septoglomus_deserticola_NC302A	z116	NC302A_5A		NC302A	Se.	deserticola	ZUII	Septoglomus	deserticola	INVAM - DNA extracted from 5 spores	INVAM	Pacbio_RSII	zuzana_Lib-5090	Low	1		Y	NC302A
+Ac_Laevis_BEG242_1F_cut	ZUII_Acaulospora_laevis_BEG242	z117	BEG242_1F		BEG242	Ac.	Laevis	ZUII	Acaulospora	laevis	BEG (Dijon) DNA extracted from 1 spore	BEG	Pacbio_RSII	zuzana_Lib-5090	Low	6		N	
+Ac_Laevis_BEG242_1G_cut	ZUII_Acaulospora_laevis_BEG242	z118	BEG242_1G		BEG242	Ac.	Laevis	ZUII	Acaulospora	laevis	BEG (Dijon) DNA extracted from 1 spore	BEG	Pacbio_RSII	zuzana_Lib-5090	Low	11		N	
+Se_deserticola_NC302A_1A_cut	ZUII_Septoglomus_deserticola_NC302A	z119	NC302A_1A		NC302A	Se.	deserticola	ZUII	Septoglomus	deserticola	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5090	Low	7		Y	NC302A
+G_rosea_BEG9_1Na_.cut	ZU_Gigaspora_rosea_BEG9	z12	BEG9_1Na		BEG9	G.	rosea	ZU	Gigaspora	rosea	BEG (cultured in IBOT Pruhonice) - DNA extracted from 1 spore	BEG	Pacbio_Sequel_II	zuzana_Lib-6262	Yes	265		N	
+Rh_Irregularis_Chomutov_10B_cut	ZUII_Rhizophagus_irregularis_Chomutov	z120	Chomutov_10B		Chomutov	Rh.	Irregularis	ZUII	Rhizophagus	irregularis	IBOT collection (Pruhonice) - DNA extracted from 10 spores	IBOT	Pacbio_RSII	zuzana_Lib-5090	Low	4		N	
+Cl_Etunicatum_IN101_10B_cut	ZUII_Entrophospora_etunicata_IN101	z121	IN101_10B		IN101	Cl.	Etunicatum	ZUII	Entrophospora	etunicata	INVAM - DNA extracted from 10 spores	INVAM	Pacbio_RSII	zuzana_Lib-5563	Low	1		Y	IN 101 B
+Rh_Irregularis_Chomutov_5A_cut	ZUII_Rhizophagus_irregularis_Chomutov	z122	Chomutov_5A		Chomutov	Rh.	Irregularis	ZUII	Rhizophagus	irregularis	IBOT collection (Pruhonice) - DNA extracted from 5 spores	IBOT	Pacbio_RSII	zuzana_Lib-5563	No	0		N	
+Ka_bistrata_Blaszk7_10B_cut	ZUII_Kamienskia_bistrata_Blaszk7	z123	Blaszk7_10B		Blaszk7	Ka.	bistrata	ZUII	Kamienskia	bistrata	Janusz Blaszkowski collection - DNA extracted from 10 spores	BLASZ	Pacbio_RSII	zuzana_Lib-5563	Low	38		N	
+Pa_brasilianum_BR105_1C_cut	ZUII_Paraglomus_brasilianum_BR105	z124	BR105_1C		BR105	Pa.	brasilianum	ZUII	Paraglomus	brasilianum	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5563	Low	37		Y	BR 105
+Cl_etunicatum_BEG247_1C_cut	ZUII_Entrophospora_etunicata_BEG247	z125	BEG247_1C		BEG247	Cl.	etunicatum	ZUII	Entrophospora	etunicata	BEG (Dijon) DNA extracted from 1 spore	BEG	Pacbio_RSII	zuzana_Lib-5563	Low	32		N	
+En_infrequens_Blaszk3_10A_cut	ZUII_Entrophospora_infrequens_Blaszk3	z126	Blaszk3_10A		Blaszk3	En.	infrequens	ZUII	Entrophospora	infrequens	Janusz Blaszkowski collection - DNA extracted from 10 spores	BLASZ	Pacbio_RSII	zuzana_Lib-5563	Low	22		N	
+Pa_scintillans_Blaszk6_5B_cut	ZUII_Paraglomus_scintillans_Blaszk6	z127	Blaszk6_5B		Blaszk6	Pa.	scintillans	ZUII	Paraglomus	scintillans	Janusz Blaszkowski collection - DNA extracted from 5 spores	BLASZ	Pacbio_RSII	zuzana_Lib-5563	Low	33		N	
+Di_spurca_W6227_5C5_cut	ZUII_Diversispora_spurca_W6227	z128	W6227_5C5		W6227	Di.	spurca	ZUII	Diversispora	spurca	Claudia Kruger collection in Průhonice - DNA extracted from 5 spores	KRUGER	Pacbio_RSII	zuzana_Lib-5563	Low	2		N	
+Am_gerdemannii_MT106_5A_cut	ZUII_Ambispora_gerdemannii_MT106	z129	MT106_5A		MT106	Am.	gerdemannii	ZUII	Ambispora	gerdemannii	INVAM - DNA extracted from 5 spores	INVAM	Pacbio_RSII	zuzana_Lib-5563	Low	2		Y	MT106
+P_occultum_CU126_5B_cut	ZU_Paraglomus_occultum_CU126	z13	CU126_5B		CU126	P.	occultum	ZU	Paraglomus	occultum	INVAM - DNA extracted from 5 spores	INVAM	Pacbio_Sequel_II	zuzana_Lib-6262	Yes	399		N	
+Ac_laevis_BEG13_5_2_cut	ZUII_Acaulospora_laevis_BEG13	z130	BEG13_5_2		BEG13	Ac.	laevis	ZUII	Acaulospora	laevis	BEG (Dijon) DNA extracted from 5 spores	BEG	Pacbio_RSII	zuzana_Lib-5563	Low	9		N	
+Pa_occultum_CU126_1C_cut	ZUII_Paraglomus_occultum_CU126	z131	CU126_1C		CU126	Pa.	occultum	ZUII	Paraglomus	occultum	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5563	Low	4		N	
+Pa_occultum_CU126_5A_cut	ZUII_Paraglomus_occultum_CU126	z132	CU126_5A		CU126	Pa.	occultum	ZUII	Paraglomus	occultum	INVAM - DNA extracted from 5 spores	INVAM	Pacbio_RSII	zuzana_Lib-5563	Low	4		N	
+Ac_laevis_BEG13_5_cut	ZUII_Acaulospora_laevis_BEG13	z133	BEG13_5		BEG13	Ac.	laevis	ZUII	Acaulospora	laevis	BEG (Dijon) DNA extracted from 5 spores	BEG	Pacbio_RSII	zuzana_Lib-5563	Low	3		N	
+Di_spurca_W6227_10_cut	ZUII_Diversispora_spurca_W6227	z134	W6227_10		W6227	Di.	spurca	ZUII	Diversispora	spurca	Claudia Kruger collection in Průhonice - DNA extracted from 10 spores	KRUGER	Pacbio_RSII	zuzana_Lib-5563	Low	1		N	
+Pa_occultum_CU126_1B_cut	ZUII_Paraglomus_occultum_CU126	z135	CU126_1B		CU126	Pa.	occultum	ZUII	Paraglomus	occultum	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5563	Low	2		N	
+De_heterogama_BEG35_10_cut	ZUII_Dentiscutata_heterogama_BEG35	z136	BEG35_10		BEG35	De.	heterogama	ZUII	Dentiscutata	heterogama	BEG (Dijon) DNA extracted from 10 spores	BEG	Pacbio_RSII	zuzana_Lib-5563	Low	2		N	
+Cl_etunicatum_BEG247_1A_cut	ZUII_Entrophospora_etunicata_BEG247	z137	BEG247_1A		BEG247	Cl.	etunicatum	ZUII	Entrophospora	etunicata	BEG (Dijon) DNA extracted from 1 spore	BEG	Pacbio_RSII	zuzana_Lib-5563	Low	17		N	
+Cl_etunicatum_BEG247_5B_cut	ZUII_Entrophospora_etunicata_BEG247	z138	BEG247_5B		BEG247	Cl.	etunicatum	ZUII	Entrophospora	etunicata	BEG (Dijon) DNA extracted from 5 spores	BEG	Pacbio_RSII	zuzana_Lib-5563	Low	17		N	
+Cl_luteum_SA101_10A_cut	ZUII_Entrophospora_lutea_SA101	z139	SA101_10A		SA101	Cl.	luteum	ZUII	Entrophospora	lutea	INVAM - DNA extracted from 10 spores	INVAM	Pacbio_RSII	zuzana_Lib-5563	Low	22		N	
+F_mosseae_BEG161_1A_cut	ZU_Funneliformis_mosseae_BEG161	z14	BEG161_1A		BEG161	F.	mosseae	ZU	Funneliformis	mosseae	BEG (cultured in IBOT Pruhonice) - DNA extracted from 1 spore	BEG	Pacbio_Sequel_II	zuzana_Lib-6262	Yes	414		N	
+Rh_irregularis_PH5_1C_cut	ZUII_Rhizophagus_irregularis_PH5	z140	PH5_1C		PH5	Rh.	irregularis	ZUII	Rhizophagus	irregularis	IBOT collection (Pruhonice) - DNA extracted from 1 spore	IBOT	Pacbio_RSII	zuzana_Lib-5563	Low	11		N	
+De_heterogama_BEG35_5_cut	ZUII_Dentiscutata_heterogama_BEG35	z141	BEG35_5		BEG35	De.	heterogama	ZUII	Dentiscutata	heterogama	BEG (Dijon) DNA extracted from 5 spores	BEG	Pacbio_RSII	zuzana_Lib-5563	Low	2		N	
+Pa_brasilianum_BEG239_5A_cut	ZUII_Paraglomus_brasilianum_BEG239	z142	BEG239_5A		BEG239	Pa.	brasilianum	ZUII	Paraglomus	brasilianum	BEG (Dijon) DNA extracted from 5 spores	BEG	Pacbio_RSII	zuzana_Lib-5563	Low	17		N	
+Am_fennica_fromAtt555_36_10g_cut	ZUII_Ambispora_fennica_Att555_36	z143	fromAtt555_36_10g		Att555_36	Am.	fennica	ZUII	Ambispora	fennica	Claudia Kruger collection in Průhonice - DNA extracted from 10 spores	KRUGER	Pacbio_RSII	zuzana_Lib-5563	Low	2		N	
+Di_spurca_W6227_5C4_cut	ZUII_Diversispora_spurca_W6227	z144	W6227_5C4		W6227	Di.	spurca	ZUII	Diversispora	spurca	Claudia Kruger collection in Průhonice - DNA extracted from 5 spores	KRUGER	Pacbio_RSII	zuzana_Lib-5563	Low	8		N	
+Am_gerdemannii_MT106_5B_cut	ZUII_Ambispora_gerdemannii_MT106	z145	MT106_5B		MT106	Am.	gerdemannii	ZUII	Ambispora	gerdemannii	INVAM - DNA extracted from 5 spores	INVAM	Pacbio_RSII	zuzana_Lib-5563	Low	1		Y	MT106
+Ac_laevis_BEG13_1E_cut	ZUII_Acaulospora_laevis_BEG13	z146	BEG13_1E		BEG13	Ac.	laevis	ZUII	Acaulospora	laevis	BEG (Dijon) DNA extracted from 1 spore	BEG	Pacbio_RSII	zuzana_Lib-5563	Low	1		N	
+Gi_rosea_BEG9_5C1_cut	ZUII_Gigaspora_rosea_BEG9	z147	BEG9_5C1		BEG9	Gi.	rosea	ZUII	Gigaspora	rosea	BEG (cultured in IBOT Pruhonice) - DNA extracted from 5 spores	BEG	Pacbio_RSII	zuzana_Lib-5563	Low	2		N	
+Cl_claroideum_BEG23fromKrc_5B_cut	ZUII_Entrophospora_claroidea_BEG23	z148	BEG23fromKrc_5B		BEG23	Cl.	claroideum	ZUII	Entrophospora	claroidea	BEG (cultured in IBOT Pruhonice) - DNA extracted from 5 spores	BEG	Pacbio_RSII	zuzana_Lib-5563	Low	6		N	
+Gi_rosea_BEG9_10_cut	ZUII_Gigaspora_rosea_BEG9	z149	BEG9_10		BEG9	Gi.	rosea	ZUII	Gigaspora	rosea	BEG (cultured in IBOT Pruhonice) - DNA extracted from 10 spores	BEG	Pacbio_RSII	zuzana_Lib-5563	Low	1		N	
+D_heterogama_BEG35_1N_cut	ZU_Dentiscutata_heterogama_BEG35	z15	BEG35_1N		BEG35	D.	heterogama	ZU	Dentiscutata	heterogama	BEG (Dijon) DNA extracted from 1 spore	BEG	Pacbio_Sequel_II	zuzana_Lib-6262	Yes	225		N	
+Am_gerdemannii_MT106_1C_cut	ZUII_Ambispora_gerdemannii_MT106	z150	MT106_1C		MT106	Am.	gerdemannii	ZUII	Ambispora	gerdemannii	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5563	Low	2		Y	MT106
+C_corymbiforme_Blask5_1C_cut	ZU_Corymbiglomus_corymbiforme_Blaszk5	z16	Blask5_1C		Blaszk5	C.	corymbiforme	ZU	Corymbiglomus	corymbiforme	Janusz Blaszkowski collection - DNA extracted from 1 spore	BLASZ	Pacbio_Sequel_II	zuzana_Lib-6262	Yes	343		N	
+C_corymbiforme_Blask5_1B_cut	ZU_Corymbiglomus_corymbiforme_Blaszk5	z17	Blask5_1B		Blaszk5	C.	corymbiforme	ZU	Corymbiglomus	corymbiforme	Janusz Blaszkowski collection - DNA extracted from 1 spore	BLASZ	Pacbio_Sequel_II	zuzana_Lib-6262	Yes	130		N	
+C_corymbiforme_Blask5_1A_cut	ZU_Corymbiglomus_corymbiforme_Blaszk5	z18	Blask5_1A		Blaszk5	C.	corymbiforme	ZU	Corymbiglomus	corymbiforme	Janusz Blaszkowski collection - DNA extracted from 1 spore	BLASZ	Pacbio_Sequel_II	zuzana_Lib-6262	Yes	875		N	
+F_mosseae_BEG95_5A_cut	ZU_Funneliformis_mosseae_BEG95	z19	BEG95_5A		BEG95	F.	mosseae	ZU	Funneliformis	mosseae	BEG (cultured in IBOT Pruhonice) - DNA extracted from 5 spores	BEG	Pacbio_Sequel_II	zuzana_Lib-6262	Yes	168		N	
+R_irregularis_PH5_1A_cut	ZU_Rhizophagus_irregularis_PH5	z2	PH5_1A		PH5	R.	irregularis	ZU	Rhizophagus	irregularis	IBOT collection (Pruhonice) - DNA extracted from 1 spore	IBOT	Pacbio_Sequel_II	zuzana_Lib-6262	Yes	1479		N	
+F_mosseae_BEG161_10A_cut	ZU_Funneliformis_mosseae_BEG161	z20	BEG161_10A		BEG161	F.	mosseae	ZU	Funneliformis	mosseae	BEG (cultured in IBOT Pruhonice) - DNA extracted from 10 spores	BEG	Pacbio_Sequel_II	zuzana_Lib-6262	Yes	181		N	
+A_koskei_SC705_5P_cut	ZU_Acaulospora_koskei_SC705	z21	SC705_5P		SC705	A.	koskei	ZU	Acaulospora	koskei	INVAM - DNA extracted from 5 spores	INVAM	Pacbio_Sequel_II	zuzana_Lib-6262	Yes	563		N	
+P_occultum_CU126_10A_cut	ZU_Paraglomus_occultum_CU126	z22	CU126_10A		CU126	P.	occultum	ZU	Paraglomus	occultum	INVAM - DNA extracted from 10 spores	INVAM	Pacbio_Sequel_II	zuzana_Lib-6262	Yes	185		N	
+A_fennica_Af2_1A_cut	ZU_Ambispora_fennica_Af2	z23	Af2_1A		Af2	A.	fennica	ZU	Ambispora	fennica	Claudia Kruger collection in Průhonice - DNA extracted from 1 spore	KRUGER	Pacbio_Sequel_II	zuzana_Lib-6262	Yes	552		N	
+S_viscosum_AH179_15_1B_cut	ZU_Septoglomus_viscosum_AH179	z24	AH179_15_1B		AH179	S.	viscosum	ZU	Septoglomus	viscosum	Claudia Kruger collection in Průhonice - DNA extracted from 1 spore	KRUGER	Pacbio_Sequel_II	zuzana_Lib-6262	Yes	445		N	
+S_cerrevisiae_Yeast_cut	ZU_Saccharomyces_cerevisiae_Yeast	z25	Yeast		Yeast	S.	cerrevisiae	ZU	Saccharomyces	cerevisiae	NA	NA	Pacbio_Sequel_II	zuzana_Lib-6262	No	0	Yeast control	N	
+S_calospora_IL209_1A_cut	ZU_Scutellospora_calospora_IL209	z26	IL209_1A		IL209	S.	calospora	ZU	Scutellospora	calospora	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_Sequel_II	zuzana_Lib-6262	Yes	116		N	
+A_koskei_WV658_1H_cut	ZU_Acaulospora_koskei_WV658	z27	WV658_1H		WV658	A.	koskei	ZU	Acaulospora	koskei	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_Sequel_II	zuzana_Lib-6262	Yes	467		N	
+D_heterogama_BEG35_1O_cut	ZU_Dentiscutata_heterogama_BEG35	z28	BEG35_1O		BEG35	D.	heterogama	ZU	Dentiscutata	heterogama	BEG (Dijon) DNA extracted from 1 spore	BEG	Pacbio_Sequel_II	zuzana_Lib-6262	Yes	118		N	
+C_luteum_SA101_5S_cut	ZU_Entrophospora_lutea_SA101	z29	SA101_5S		SA101	C.	luteum	ZU	Entrophospora	lutea	INVAM - DNA extracted from 5 spores	INVAM	Pacbio_Sequel_II	zuzana_Lib-6262	Low read count	98		N	
+S_viscosum_AH179_15_1A_cut	ZU_Septoglomus_viscosum_AH179	z3	AH179_15_1A		AH179	S.	viscosum	ZU	Septoglomus	viscosum	Claudia Kruger collection in Průhonice - DNA extracted from 1 spore	KRUGER	Pacbio_Sequel_II	zuzana_Lib-6262	Yes	1509		N	
+F_mosseae_BEG161_5B_cut	ZU_Funneliformis_mosseae_BEG161	z30	BEG161_5B		BEG161	F.	mosseae	ZU	Funneliformis	mosseae	BEG (cultured in IBOT Pruhonice) - DNA extracted from 5 spores	BEG	Pacbio_Sequel_II	zuzana_Lib-6262	Yes	45		N	
+E_infrequens_Blask3_1F_cut	ZU_Entrophospora_infrequens_Blaszk3	z31	Blask3_1F		Blaszk3	E.	infrequens	ZU	Entrophospora	infrequens	Janusz Blaszkowski collection - DNA extracted from 1 spore	BLASZ	Pacbio_Sequel_II	zuzana_Lib-6262	Low read count	1		N	
+Ac_morrowiae_BR983A_1A_cut	ZU_Acaulospora_morrowiae_BR983A	z32	BR983A_1A		BR983A	Ac	morrowiae	ZU	Acaulospora	morrowiae	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	2992		Y	BR983A
+Gi_rosea_BR155B_1C_cut	ZU_Gigaspora_rosea_BR155B	z33	BR155B_1C		BR155B	Gi	rosea	ZU	Gigaspora	rosea	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	1465		Y	BR155A
+Gi_rosea_KS885_1B_cut	ZU_Gigaspora_rosea_KS885	z34	KS885_1B		KS885	Gi	rosea	ZU	Gigaspora	rosea	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	1636		N	
+De_heterogama_IL203A_1A_cut	ZU_Dentiscutata_heterogama_IL203A	z35	IL203A_1A		IL203A	De	heterogama	ZU	Dentiscutata	heterogama	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	1667		N	
+De_heterogama_IL203A_1C_cut	ZU_Dentiscutata_heterogama_IL203A	z36	IL203A_1C		IL203A	De	heterogama	ZU	Dentiscutata	heterogama	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	1570		N	
+Gi_rosea_KS885_1C_cut	ZU_Gigaspora_rosea_KS885	z37	KS885_1C		KS885	Gi	rosea	ZU	Gigaspora	rosea	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	1056		N	
+De_heterogama_BR154_1B_cut	ZU_Dentiscutata_heterogama_BR154	z38	BR154_1B		BR154	De	heterogama	ZU	Dentiscutata	heterogama	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	1270		N	
+Ra_gregaria_BEG243_1A_cut	ZU_Racocetra_gregaria_BEG243	z39	BEG243_1A		BEG243	Ra	gregaria	ZU	Racocetra	gregaria	BEG (Dijon) DNA extracted from 1 spore	BEG	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	1505		N	
+Racocetra_sp_179_Blask4_10A_cut	ZU_Racocetra_sp._179_Blask4	z4	179_Blask4_10A		179_Blask4	Racocetra	sp.	ZU	Racocetra	sp.	Janusz Blaszkowski collection - DNA extracted from 10 spores	BLASZ	Pacbio_Sequel_II	zuzana_Lib-6262	Yes	908		N	
+Ra_gregaria_BEG243_1B_cut	ZU_Racocetra_gregaria_BEG243	z40	BEG243_1B		BEG243	Ra	gregaria	ZU	Racocetra	gregaria	BEG (Dijon) DNA extracted from 1 spore	BEG	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	1482		N	
+Gi_rosea_BR155B_1B_cut	ZU_Gigaspora_rosea_BR155B	z41	BR155B_1B		BR155B	Gi	rosea	ZU	Gigaspora	rosea	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	929		Y	BR155A
+Gi_rosea_BR155B_1A_cut	ZU_Gigaspora_rosea_BR155B	z42	BR155B_1A		BR155B	Gi	rosea	ZU	Gigaspora	rosea	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	654		Y	BR155A
+De_heterogama_BR154_1A_cut	ZU_Dentiscutata_heterogama_BR154	z43	BR154_1A		BR154	De	heterogama	ZU	Dentiscutata	heterogama	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	894		N	
+Ac_koskei_WV685_1A_cut	ZU_Acaulospora_koskei_WV685	z44	WV685_1A		WV685	Ac	koskei	ZU	Acaulospora	koskei	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	1393		Y	WV 685
+Gi_rosea_KS885_1A_cut	ZU_Gigaspora_rosea_KS885	z45	KS885_1A		KS885	Gi	rosea	ZU	Gigaspora	rosea	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	802		N	
+Di_epigaea_KS210_1A_cut	ZU_Diversispora_epigaea_KS210	z46	KS210_1A		KS210	Di	epigaea	ZU	Diversispora	epigaea	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	444		N	
+De_heterogama_IL203A_1B_cut	ZU_Dentiscutata_heterogama_IL203A	z47	IL203A_1B		IL203A	De	heterogama	ZU	Dentiscutata	heterogama	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	1667		N	
+Fu_mosseae_BEG12_1C_cut	ZU_Funneliformis_mosseae_BEG12	z48	BEG12_1C		BEG12	Fu	mosseae	ZU	Funneliformis	mosseae	BEG (Dijon) DNA extracted from 1 spore	BEG	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	327		N	
+Ra_gregaria_BEG243_1C_cut	ZU_Racocetra_gregaria_BEG243	z49	BEG243_1C		BEG243	Ra	gregaria	ZU	Racocetra	gregaria	BEG (Dijon) DNA extracted from 1 spore	BEG	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	395		N	
+G_rosea_BEG9_1Nb_cut	ZU_Gigaspora_rosea_BEG9	z5	BEG9_1Nb		BEG9	G.	rosea	ZU	Gigaspora	rosea	BEG (cultured in IBOT Pruhonice) - DNA extracted from 1 spore	BEG	Pacbio_Sequel_II	zuzana_Lib-6262	Yes	238		N	
+Ac_morrowiae_BR983A_5A_cut	ZU_Acaulospora_morrowiae_BR983A	z50	BR983A_5A		BR983A	Ac	morrowiae	ZU	Acaulospora	morrowiae	INVAM - DNA extracted from 5 spores	INVAM	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	888		Y	BR983A
+De_heterogama_BR154_1C_cut	ZU_Dentiscutata_heterogama_BR154	z51	BR154_1C		BR154	De	heterogama	ZU	Dentiscutata	heterogama	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	599		N	
+Ac_koskei_WV685_1C_cut	ZU_Acaulospora_koskei_WV685	z52	WV685_1C		WV685	Ac	koskei	ZU	Acaulospora	koskei	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	488		Y	WV 685
+Di_epigaea_KS210_1C_cut	ZU_Diversispora_epigaea_KS211	z53	KS210_1C		KS211	Di	epigaea	ZU	Diversispora	epigaea	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	751		N	
+Fu_mosseae_BEG12_1A_cut	ZU_Funneliformis_mosseae_BEG12	z54	BEG12_1A		BEG12	Fu	mosseae	ZU	Funneliformis	mosseae	BEG (Dijon) DNA extracted from 1 spore	BEG	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	463		N	
+Am_gerdemannii_ON205A_1C_SV_cut	ZU_Ambispora_gerdemannii_ON205A	z55	ON205A_1C_SV		ON205A	Am	gerdemannii	ZU	Ambispora	gerdemannii	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	438		Y	ON205B
+Ac_koskei_WV685_1B_cut	ZU_Acaulospora_koskei_WV685	z56	WV685_1B		WV685	Ac	koskei	ZU	Acaulospora	koskei	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	329		Y	WV 685
+Ac_morrowiae_BR983A_1B_cut	ZU_Acaulospora_morrowiae_BR983A	z57	BR983A_1B		BR983A	Ac	morrowiae	ZU	Acaulospora	morrowiae	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	335		Y	BR983A
+Di_epigaea_KS210_5A_cut	ZU_Diversispora_epigaea_KS212	z58	KS210_5A		KS212	Di	epigaea	ZU	Diversispora	epigaea	INVAM - DNA extracted from 5 spores	INVAM	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	214		N	
+Fu_mosseae_BEG12_1B_cut	ZU_Funneliformis_mosseae_BEG12	z59	BEG12_1B		BEG12	Fu	mosseae	ZU	Funneliformis	mosseae	BEG (Dijon) DNA extracted from 1 spore	BEG	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	239		N	
+D_heterogama_BEG35_1M_cut	ZU_Dentiscutata_heterogama_BEG35	z6	BEG35_1M		BEG35	D.	heterogama	ZU	Dentiscutata	heterogama	BEG (Dijon) DNA extracted from 1 spore	BEG	Pacbio_Sequel_II	zuzana_Lib-6262	Yes	486		N	
+Am_gerdemannii_ON205A_1B_cut	ZU_Ambispora_gerdemannii_ON205A	z60	ON205A_1B		ON205A	Am	gerdemannii	ZU	Ambispora	gerdemannii	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	507		Y	ON205B
+Am_gerdemannii_ON205A_1B_SV_cut	ZU_Ambispora_gerdemannii_ON205A	z61	ON205A_1B_SV		ON205A	Am	gerdemannii	ZU	Ambispora	gerdemannii	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_Sequel_II	zuzana_Lib-6273	Yes	172		Y	ON205B
+Sa_cerevisiae_Yeast_cut	ZU_Saccharomyces_cerevisiae_Yeast	z62	Yeast		Yeast	Sa	cerevisiae	ZU	Saccharomyces	cerevisiae	Yest - control	NA	Pacbio_Sequel_II	zuzana_Lib-6273	No	0	Yeast control	N	
+De_heterogama_IL203A_1C_cut	ZUII_Dentiscutata_heterogama_IL203A	z63	IL203A_1C		IL203A	De.	heterogama	ZUII	Dentiscutata	heterogama	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5018	Low	79		N	
+De_heterogama_IL203A_1A_cut	ZUII_Dentiscutata_heterogama_IL203A	z64	IL203A_1A		IL203A	De.	heterogama	ZUII	Dentiscutata	heterogama	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5018	Low	72		N	
+De_heterogama_BR154_1B_cut	ZUII_Dentiscutata_heterogama_BR154	z65	BR154_1B		BR154	De.	heterogama	ZUII	Dentiscutata	heterogama	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5018	Low	51		N	
+De_heterogama_BR154_1A_cut	ZUII_Dentiscutata_heterogama_BR154	z66	BR154_1A		BR154	De.	heterogama	ZUII	Dentiscutata	heterogama	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5018	Low	49		N	
+Gi_rosea_KS885_1C_cut	ZUII_Gigaspora_rosea_KS885	z67	KS885_1C		KS885	Gi.	rosea	ZUII	Gigaspora	rosea	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5018	Low	40		N	
+Ac_morrowiae_BR983A_1B_cut	ZUII_Acaulospora_morrowiae_BR983A	z68	BR983A_1B		BR983A	Ac.	morrowiae	ZUII	Acaulospora	morrowiae	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5018	Low	73		Y	BR983A
+Gi_rosea_BR155B_1B_cut	ZUII_Gigaspora_rosea_BR155B	z69	BR155B_1B		BR155B	Gi.	rosea	ZUII	Gigaspora	rosea	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5018	Low	17		Y	BR155A
+A_koskei_WV685_1F_cut	ZU_Acaulospora_koskei_WV685	z7	WV685_1F		WV685	A.	koskei	ZU	Acaulospora	koskei	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_Sequel_II	zuzana_Lib-6262	Yes	1101		Y	WV 685
+Ac_morrowiae_BR983A_5A_cut	ZUII_Acaulospora_morrowiae_BR983A	z70	BR983A_5A		BR983A	Ac.	morrowiae	ZUII	Acaulospora	morrowiae	INVAM - DNA extracted from 5 spores	INVAM	Pacbio_RSII	zuzana_Lib-5018	Low	61		Y	BR983A
+De_heterogama_BR154_1C_cut	ZUII_Dentiscutata_heterogama_BR154	z71	BR154_1C		BR154	De.	heterogama	ZUII	Dentiscutata	heterogama	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5018	Low	42		N	
+Gi_rosea_BR155B_1C_cut	ZUII_Gigaspora_rosea_BR155B	z72	BR155B_1C		BR155B	Gi.	rosea	ZUII	Gigaspora	rosea	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5018	Low	21		Y	BR155A
+Fu_mosseae_BEG12_1B_cut	ZUII_Funneliformis_mosseae_BEG12	z73	BEG12_1B		BEG12	Fu.	mosseae	ZUII	Funneliformis	mosseae	BEG (Dijon) DNA extracted from 1 spore	BEG	Pacbio_RSII	zuzana_Lib-5018	Low	23		N	
+Gi_rosea_KS885_1B_cut	ZUII_Gigaspora_rosea_KS885	z74	KS885_1B		KS885	Gi.	rosea	ZUII	Gigaspora	rosea	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5018	Low	39		N	
+Am_gerdemannii_ON205A_1B_SV_cut	ZUII_Ambispora_gerdemannii_ON205A	z75	ON205A_1B_SV		ON205A	Am.	gerdemannii	ZUII	Ambispora	gerdemannii	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5018	Low	36		Y	ON205B
+Gi_rosea_BR155B_1A_cut	ZUII_Gigaspora_rosea_BR155B	z76	BR155B_1A		BR155B	Gi.	rosea	ZUII	Gigaspora	rosea	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5018	Low	17		Y	BR155A
+De_heterogama_IL203A_1B_cut	ZUII_Dentiscutata_heterogama_IL203A	z77	IL203A_1B		IL203A	De.	heterogama	ZUII	Dentiscutata	heterogama	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5018	Low	30		N	
+Ra_gregaria_BEG243_1A_cut	ZUII_Racocetra_gregaria_BEG243	z78	BEG243_1A		BEG243	Ra.	gregaria	ZUII	Racocetra	gregaria	BEG (Dijon) DNA extracted from 1 spore	BEG	Pacbio_RSII	zuzana_Lib-5018	Low	46		N	
+Ra_gregaria_BEG243_1B_cut	ZUII_Racocetra_gregaria_BEG243	z79	BEG243_1B		BEG243	Ra.	gregaria	ZUII	Racocetra	gregaria	BEG (Dijon) DNA extracted from 1 spore	BEG	Pacbio_RSII	zuzana_Lib-5018	Low	46		N	
+S_calospora_IL209_1C_cut	ZU_Scutellospora_calospora_IL209	z8	IL209_1C		IL209	S.	calospora	ZU	Scutellospora	calospora	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_Sequel_II	zuzana_Lib-6262	Yes	382		N	
+Gi_rosea_KS885_1A_cut	ZUII_Gigaspora_rosea_KS885	z80	KS885_1A		KS885	Gi.	rosea	ZUII	Gigaspora	rosea	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5018	Low	27		N	
+Ac_koskei_WV685_1A_cut	ZUII_Acaulospora_koskei_WV685	z81	WV685_1A		WV685	Ac.	koskei	ZUII	Acaulospora	koskei	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5018	Low	57		Y	WV 685
+Fu_mosseae_BEG12_1C_cut	ZUII_Funneliformis_mosseae_BEG12	z82	BEG12_1C		BEG12	Fu.	mosseae	ZUII	Funneliformis	mosseae	BEG (Dijon) DNA extracted from 1 spore	BEG	Pacbio_RSII	zuzana_Lib-5018	Low	5		N	
+Fu_mosseae_BEG12_1A_cut	ZUII_Funneliformis_mosseae_BEG12	z83	BEG12_1A		BEG12	Fu.	mosseae	ZUII	Funneliformis	mosseae	BEG (Dijon) DNA extracted from 1 spore	BEG	Pacbio_RSII	zuzana_Lib-5018	Low	23		N	
+Ac_morrowiae_BR983A_1A_cut	ZUII_Acaulospora_morrowiae_BR983A	z84	BR983A_1A		BR983A	Ac.	morrowiae	ZUII	Acaulospora	morrowiae	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5018	Low	48		Y	BR983A
+Am_gerdemannii_ON205A_1C_SV_cut	ZUII_Ambispora_gerdemannii_ON205A	z85	ON205A_1C_SV		ON205A	Am.	gerdemannii	ZUII	Ambispora	gerdemannii	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5018	Low	20		Y	ON205B
+Di_epigaea_KS210_1C_cut	ZUII_Diversispora_epigaea_KS213	z86	KS210_1C		KS213	Di.	epigaea	ZUII	Diversispora	epigaea	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5018	Low	33		N	
+Am_gerdemannii_ON205A_1B_cut	ZUII_Ambispora_gerdemannii_ON205A	z87	ON205A_1B		ON205A	Am.	gerdemannii	ZUII	Ambispora	gerdemannii	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5018	Low	65		Y	ON205B
+Di_epigaea_KS210_5A_cut	ZUII_Diversispora_epigaea_KS214	z88	KS210_5A		KS214	Di.	epigaea	ZUII	Diversispora	epigaea	INVAM - DNA extracted from 5 spores	INVAM	Pacbio_RSII	zuzana_Lib-5018	Low	4		N	
+Ac_koskei_WV685_1C_cut	ZUII_Acaulospora_koskei_WV685	z89	WV685_1C		WV685	Ac.	koskei	ZUII	Acaulospora	koskei	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5018	Low	8		Y	WV 685
+P_occultum_CU126_10B_cut	ZU_Paraglomus_occultum_CU126	z9	CU126_10B		CU126	P.	occultum	ZU	Paraglomus	occultum	INVAM - DNA extracted from 10 spores	INVAM	Pacbio_Sequel_II	zuzana_Lib-6262	Yes	553		N	
+Di_epigaea_KS210_1A_cut	ZUII_Diversispora_epigaea_KS215	z90	KS210_1A		KS215	Di.	epigaea	ZUII	Diversispora	epigaea	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5018	Low	8		N	
+Ra_gregaria_BEG243_1C_cut	ZUII_Racocetra_gregaria_BEG243	z91	BEG243_1C		BEG243	Ra.	gregaria	ZUII	Racocetra	gregaria	BEG (Dijon) DNA extracted from 1 spore	BEG	Pacbio_RSII	zuzana_Lib-5018	Low	6		N	
+Ac_koskei_WV685_1B_cut	ZUII_Acaulospora_koskei_WV685	z92	WV685_1B		WV685	Ac.	koskei	ZUII	Acaulospora	koskei	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5018	Low	4		Y	WV 685
+Sac_cerevisiae_cut	ZUII_Saccharomyces_cerevisiae_Yeast	z93	Sa_cerev		Yeast	Sa.	cerevisiae	ZUII	Saccharomyces	cerevisiae	control	NA	Pacbio_RSII	zuzana_Lib-5018	Low	3		N	
+Pa_Brasilianum_FL710_1C_cut	ZUII_Paraglomus_brasilianum_FL710	z94	FL710_1C		FL710	Pa.	Brasilianum	ZUII	Paraglomus	brasilianum	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5090	Yes	231		Y	FL710
+Rh_Irregularis_Chomutov_1A_cut	ZUII_Rhizophagus_irregularis_Chomutov	z95	Chomutov_1A		Chomutov	Rh.	Irregularis	ZUII	Rhizophagus	irregularis	IBOT collection (Pruhonice) - DNA extracted from 1 spore	IBOT	Pacbio_RSII	zuzana_Lib-5090	Yes	264		N	
+Cl_Luteum_CR308_1A_cut	ZUII_Entrophospora_lutea_CR308	z96	CR308_1A		CR308	Cl.	Luteum	ZUII	Entrophospora	lutea	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5090	Yes	210		N	
+Pa_Brasilianum_FL710_5A_cut	ZUII_Paraglomus_brasilianum_FL710	z97	FL710_5A		FL710	Pa.	Brasilianum	ZUII	Paraglomus	brasilianum	INVAM - DNA extracted from 5 spores	INVAM	Pacbio_RSII	zuzana_Lib-5090	Yes	260		Y	FL710
+Ac_Laevis_BEG26_1_3_cut	ZUII_Acaulospora_laevis_BEG26	z98	BEG26_1_3		BEG26	Ac.	Laevis	ZUII	Acaulospora	laevis	BEG (Dijon) DNA extracted from 1 spore	BEG	Pacbio_RSII	zuzana_Lib-5090	Low	60		N	
+Cl_Luteum_CR308_1C_cut	ZUII_Entrophospora_lutea_CR308	z99	CR308_1C		CR308	Cl.	Luteum	ZUII	Entrophospora	lutea	INVAM - DNA extracted from 1 spore	INVAM	Pacbio_RSII	zuzana_Lib-5090	Yes	164		N	
